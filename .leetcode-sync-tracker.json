@@ -1,3 +1,3271 @@
 {
-  "synced_submission_ids": []
+  "synced_submission_ids": [
+    "1468164456",
+    "1468169946",
+    "1468178060",
+    "1469483731",
+    "1470190461",
+    "1470195773",
+    "1470198103",
+    "1471996790",
+    "1471999416",
+    "1472010290",
+    "1472016014",
+    "1502720490",
+    "1503820951",
+    "1504806510",
+    "1504815100",
+    "1542955763",
+    "1544145226",
+    "1551962132",
+    "1598602913",
+    "1606425130",
+    "1606585439",
+    "1606778210",
+    "1606780295",
+    "1606783379",
+    "1606785222",
+    "1606787216",
+    "1606790135",
+    "1606792884",
+    "1606811071",
+    "1609454436",
+    "1610388546",
+    "1610761313",
+    "1610774464",
+    "1610780781",
+    "1610781857",
+    "1611644094",
+    "1611726971",
+    "1621007965",
+    "1623744899",
+    "1623805896",
+    "1623811543",
+    "1623819378",
+    "1623821287",
+    "1623821693",
+    "1624319247",
+    "1624600936",
+    "1624627866",
+    "1624638383",
+    "1624646862",
+    "1624647202",
+    "1624647545",
+    "1624648465",
+    "1624648988",
+    "1624649329",
+    "1624650401",
+    "1625418531",
+    "1625460663",
+    "1626367150",
+    "1626816512",
+    "1626821133",
+    "1626822347",
+    "1626876684",
+    "1626893479",
+    "1627192506",
+    "1628003535",
+    "1628801659",
+    "1634894914",
+    "1634931032",
+    "1635699462",
+    "1635711170",
+    "1635729860",
+    "1635778842",
+    "1636629277",
+    "1650546554",
+    "1650834696",
+    "1650856793",
+    "1652497341",
+    "1652534998",
+    "1655541250",
+    "1655564980",
+    "1656767153",
+    "1656789176",
+    "1656795139",
+    "1656805128",
+    "1657808685",
+    "1661007430",
+    "1661045817",
+    "1663095757",
+    "1665640837",
+    "1665688889",
+    "1666696945",
+    "1666715155",
+    "1666796967",
+    "1667831252",
+    "1667841302",
+    "1667893104",
+    "1667904392",
+    "1668925294",
+    "1668946381",
+    "1668975739",
+    "1669012521",
+    "1669041355",
+    "1669063627",
+    "1669077177",
+    "1669577783",
+    "1670068049",
+    "1670079233",
+    "1670102050",
+    "1670130820",
+    "1670170993",
+    "1670208449",
+    "1671089668",
+    "1671104976",
+    "1671151454",
+    "1671173325",
+    "1671216441",
+    "1671308417",
+    "1671322738",
+    "1673243386",
+    "1673254146",
+    "1673265870",
+    "1673333510",
+    "1673360701",
+    "1673383745",
+    "1673383834",
+    "1674370373",
+    "1674412423",
+    "1674424892",
+    "1674465927",
+    "1674523670",
+    "1675170305",
+    "1675570064",
+    "1675692793",
+    "1675713080",
+    "1675720495",
+    "1676368722",
+    "1676791782",
+    "1677948360",
+    "1677989281",
+    "1677999970",
+    "1678561653",
+    "1679172666",
+    "1679933192",
+    "1682228337",
+    "1682271852",
+    "1687613042",
+    "1688107410",
+    "1688115481",
+    "1688123975",
+    "1688130558",
+    "1691925577",
+    "1691934150",
+    "1692419583",
+    "1692429085",
+    "1694605965",
+    "1697579282",
+    "1697598050",
+    "1697613463",
+    "1700945726",
+    "1700977466",
+    "1701487521",
+    "1701518469",
+    "1702185876",
+    "1702470759",
+    "1703240168",
+    "1703933055",
+    "1705091044",
+    "1705098938",
+    "1705099405",
+    "1705101175",
+    "1705101636",
+    "1705118816",
+    "1707462699",
+    "1707634030",
+    "1711875684",
+    "1711898380",
+    "1711900132",
+    "1711900576",
+    "1712512735",
+    "1712513035",
+    "1712513372",
+    "1712513763",
+    "1712514598",
+    "1712514943",
+    "1713476118",
+    "1713646772",
+    "1714402479",
+    "1715979664",
+    "1715998628",
+    "1717250834",
+    "1720328379",
+    "1722061128",
+    "1722090863",
+    "1722113980",
+    "1723378970",
+    "1734814756",
+    "1734815034",
+    "1735225000",
+    "1735229903",
+    "1735248258",
+    "1735274634",
+    "1741957472",
+    "1744072410",
+    "1752699365",
+    "1753300896",
+    "1755099416",
+    "1756166554",
+    "1759214056",
+    "1794133629",
+    "1801770431",
+    "1802138195",
+    "1802197636",
+    "1825321260",
+    "1825930077",
+    "1828067283",
+    "1832504545",
+    "1833227730",
+    "1836072013",
+    "1837448561",
+    "1843525554",
+    "1843531258",
+    "1843544798",
+    "1866688927",
+    "1866696453",
+    "1866702566",
+    "1868583774",
+    "1871280727",
+    "1871793755",
+    "1871808167",
+    "1872396276",
+    "1872422832",
+    "1874301297",
+    "1874562048",
+    "1875641151",
+    "1875695482",
+    "1888995393",
+    "1910527418",
+    "1915995278",
+    "1926090644",
+    "1933708585",
+    "1933726040",
+    "1933763675",
+    "1972431806",
+    "1976545022",
+    "1976563569",
+    "1992669615",
+    "1998897026",
+    "2010940206",
+    "2015292628",
+    "2018389209",
+    "2018391676",
+    "2020472555",
+    "2023379188",
+    "2023571778",
+    "2023586935",
+    "2027876115",
+    "2034866596",
+    "2037813153",
+    "2037841434",
+    "2037874929",
+    "2037888093",
+    "2037918569",
+    "2040092108",
+    "2040103666",
+    "2044908215",
+    "2045675136",
+    "2045930101",
+    "2048153721",
+    "2049244804",
+    "2050142443",
+    "2050313250",
+    "2051545440",
+    "2055871687",
+    "2055904044",
+    "2055935322",
+    "2056091077",
+    "2057145112",
+    "2058161361",
+    "2059607569",
+    "2060865829",
+    "2062080918",
+    "2063111257",
+    "2063123648",
+    "2063186878",
+    "2064155321",
+    "2064156062",
+    "2065299778",
+    "2066320616",
+    "2066330679",
+    "2066337180",
+    "2067759712",
+    "2068271444",
+    "2069494709",
+    "2070133497",
+    "2070963084",
+    "2070964081",
+    "2070964491",
+    "2070965091",
+    "2071372125",
+    "2072441066",
+    "2072456084",
+    "2072467998",
+    "2072503386",
+    "2072509278",
+    "2072713067"
+  ],
+  "problems": {
+    "1-bit-and-2-bit-characters": {
+      "id": "717",
+      "title": "1-bit and 2-bit Characters",
+      "folderName": "717-1-bit-and-2-bit-characters",
+      "topics": [
+        "Array"
+      ]
+    },
+    "kth-largest-element-in-a-stream": {
+      "id": "703",
+      "title": "Kth Largest Element in a Stream",
+      "folderName": "703-kth-largest-element-in-a-stream",
+      "topics": [
+        "Tree",
+        "Design",
+        "Binary Search Tree",
+        "Heap (Priority Queue)",
+        "Binary Tree",
+        "Data Stream"
+      ]
+    },
+    "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence": {
+      "id": "1455",
+      "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+      "folderName": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching"
+      ]
+    },
+    "adding-spaces-to-a-string": {
+      "id": "2109",
+      "title": "Adding Spaces to a String",
+      "folderName": "2109-adding-spaces-to-a-string",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "String",
+        "Simulation"
+      ]
+    },
+    "recyclable-and-low-fat-products": {
+      "id": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "folderName": "1757-recyclable-and-low-fat-products",
+      "topics": [
+        "Database"
+      ]
+    },
+    "find-customer-referee": {
+      "id": "584",
+      "title": "Find Customer Referee",
+      "folderName": "584-find-customer-referee",
+      "topics": [
+        "Database"
+      ]
+    },
+    "big-countries": {
+      "id": "595",
+      "title": "Big Countries",
+      "folderName": "595-big-countries",
+      "topics": [
+        "Database"
+      ]
+    },
+    "article-views-i": {
+      "id": "1148",
+      "title": "Article Views I",
+      "folderName": "1148-article-views-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    "invalid-tweets": {
+      "id": "1683",
+      "title": "Invalid Tweets",
+      "folderName": "1683-invalid-tweets",
+      "topics": [
+        "Database"
+      ]
+    },
+    "replace-employee-id-with-the-unique-identifier": {
+      "id": "1378",
+      "title": "Replace Employee ID With The Unique Identifier",
+      "folderName": "1378-replace-employee-id-with-the-unique-identifier",
+      "topics": [
+        "Database"
+      ]
+    },
+    "product-sales-analysis-i": {
+      "id": "1068",
+      "title": "Product Sales Analysis I",
+      "folderName": "1068-product-sales-analysis-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    "remove-duplicates-from-sorted-array-ii": {
+      "id": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "folderName": "80-remove-duplicates-from-sorted-array-ii",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    "add-two-numbers": {
+      "id": "2",
+      "title": "Add Two Numbers",
+      "folderName": "2-add-two-numbers",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
+    },
+    "jump-game": {
+      "id": "55",
+      "title": "Jump Game",
+      "folderName": "55-jump-game",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    "jump-game-ii": {
+      "id": "45",
+      "title": "Jump Game II",
+      "folderName": "45-jump-game-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    "container-with-most-water": {
+      "id": "11",
+      "title": "Container With Most Water",
+      "folderName": "11-container-with-most-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ]
+    },
+    "remove-element": {
+      "id": "27",
+      "title": "Remove Element",
+      "folderName": "27-remove-element",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    "valid-palindrome": {
+      "id": "125",
+      "title": "Valid Palindrome",
+      "folderName": "125-valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "h-index": {
+      "id": "274",
+      "title": "H-Index",
+      "folderName": "274-h-index",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Counting Sort"
+      ]
+    },
+    "search-in-rotated-sorted-array": {
+      "id": "33",
+      "title": "Search in Rotated Sorted Array",
+      "folderName": "33-search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "single-element-in-a-sorted-array": {
+      "id": "540",
+      "title": "Single Element in a Sorted Array",
+      "folderName": "540-single-element-in-a-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "customer-who-visited-but-did-not-make-any-transactions": {
+      "id": "1581",
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "folderName": "1581-customer-who-visited-but-did-not-make-any-transactions",
+      "topics": [
+        "Database"
+      ]
+    },
+    "rising-temperature": {
+      "id": "197",
+      "title": "Rising Temperature",
+      "folderName": "197-rising-temperature",
+      "topics": [
+        "Database"
+      ]
+    },
+    "average-time-of-process-per-machine": {
+      "id": "1661",
+      "title": "Average Time of Process per Machine",
+      "folderName": "1661-average-time-of-process-per-machine",
+      "topics": [
+        "Database"
+      ]
+    },
+    "employee-bonus": {
+      "id": "577",
+      "title": "Employee Bonus",
+      "folderName": "577-employee-bonus",
+      "topics": [
+        "Database"
+      ]
+    },
+    "students-and-examinations": {
+      "id": "1280",
+      "title": "Students and Examinations",
+      "folderName": "1280-students-and-examinations",
+      "topics": [
+        "Database"
+      ]
+    },
+    "managers-with-at-least-5-direct-reports": {
+      "id": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "folderName": "570-managers-with-at-least-5-direct-reports",
+      "topics": [
+        "Database"
+      ]
+    },
+    "confirmation-rate": {
+      "id": "1934",
+      "title": "Confirmation Rate",
+      "folderName": "1934-confirmation-rate",
+      "topics": [
+        "Database"
+      ]
+    },
+    "ransom-note": {
+      "id": "383",
+      "title": "Ransom Note",
+      "folderName": "383-ransom-note",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    },
+    "missing-number": {
+      "id": "268",
+      "title": "Missing Number",
+      "folderName": "268-missing-number",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ]
+    },
+    "count-of-matches-in-tournament": {
+      "id": "1688",
+      "title": "Count of Matches in Tournament",
+      "folderName": "1688-count-of-matches-in-tournament",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    "delete-the-middle-node-of-a-linked-list": {
+      "id": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "folderName": "2095-delete-the-middle-node-of-a-linked-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    "counter": {
+      "id": "2620",
+      "title": "Counter",
+      "folderName": "2620-counter",
+      "topics": []
+    },
+    "to-be-or-not-to-be": {
+      "id": "2704",
+      "title": "To Be Or Not To Be",
+      "folderName": "2704-to-be-or-not-to-be",
+      "topics": []
+    },
+    "counter-ii": {
+      "id": "2665",
+      "title": "Counter II",
+      "folderName": "2665-counter-ii",
+      "topics": []
+    },
+    "rearrange-array-elements-by-sign": {
+      "id": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "folderName": "2149-rearrange-array-elements-by-sign",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Simulation"
+      ]
+    },
+    "the-kth-factor-of-n": {
+      "id": "1492",
+      "title": "The kth Factor of n",
+      "folderName": "1492-the-kth-factor-of-n",
+      "topics": [
+        "Math",
+        "Number Theory"
+      ]
+    },
+    "subarray-sum-equals-k": {
+      "id": "560",
+      "title": "Subarray Sum Equals K",
+      "folderName": "560-subarray-sum-equals-k",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    "reverse-linked-list": {
+      "id": "206",
+      "title": "Reverse Linked List",
+      "folderName": "206-reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    "odd-even-linked-list": {
+      "id": "328",
+      "title": "Odd Even Linked List",
+      "folderName": "328-odd-even-linked-list",
+      "topics": [
+        "Linked List"
+      ]
+    },
+    "push-dominoes": {
+      "id": "838",
+      "title": "Push Dominoes",
+      "folderName": "838-push-dominoes",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    "rotate-list": {
+      "id": "61",
+      "title": "Rotate List",
+      "folderName": "61-rotate-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    "not-boring-movies": {
+      "id": "620",
+      "title": "Not Boring Movies",
+      "folderName": "620-not-boring-movies",
+      "topics": [
+        "Database"
+      ]
+    },
+    "average-selling-price": {
+      "id": "1251",
+      "title": "Average Selling Price",
+      "folderName": "1251-average-selling-price",
+      "topics": [
+        "Database"
+      ]
+    },
+    "reverse-nodes-in-k-group": {
+      "id": "25",
+      "title": "Reverse Nodes in k-Group",
+      "folderName": "25-reverse-nodes-in-k-group",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    "minimum-domino-rotations-for-equal-row": {
+      "id": "1007",
+      "title": "Minimum Domino Rotations For Equal Row",
+      "folderName": "1007-minimum-domino-rotations-for-equal-row",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    "isomorphic-strings": {
+      "id": "205",
+      "title": "Isomorphic Strings",
+      "folderName": "205-isomorphic-strings",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "rotate-string": {
+      "id": "796",
+      "title": "Rotate String",
+      "folderName": "796-rotate-string",
+      "topics": [
+        "String",
+        "String Matching"
+      ]
+    },
+    "project-employees-i": {
+      "id": "1075",
+      "title": "Project Employees I",
+      "folderName": "1075-project-employees-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    "percentage-of-users-attended-a-contest": {
+      "id": "1633",
+      "title": "Percentage of Users Attended a Contest",
+      "folderName": "1633-percentage-of-users-attended-a-contest",
+      "topics": [
+        "Database"
+      ]
+    },
+    "queries-quality-and-percentage": {
+      "id": "1211",
+      "title": "Queries Quality and Percentage",
+      "folderName": "1211-queries-quality-and-percentage",
+      "topics": [
+        "Database"
+      ]
+    },
+    "number-of-unique-subjects-taught-by-each-teacher": {
+      "id": "2356",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "folderName": "2356-number-of-unique-subjects-taught-by-each-teacher",
+      "topics": [
+        "Database"
+      ]
+    },
+    "user-activity-for-the-past-30-days-i": {
+      "id": "1141",
+      "title": "User Activity for the Past 30 Days I",
+      "folderName": "1141-user-activity-for-the-past-30-days-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    "classes-with-at-least-5-students": {
+      "id": "596",
+      "title": "Classes With at Least 5 Students",
+      "folderName": "596-classes-with-at-least-5-students",
+      "topics": [
+        "Database"
+      ]
+    },
+    "find-followers-count": {
+      "id": "1729",
+      "title": "Find Followers Count",
+      "folderName": "1729-find-followers-count",
+      "topics": [
+        "Database"
+      ]
+    },
+    "number-of-equivalent-domino-pairs": {
+      "id": "1128",
+      "title": "Number of Equivalent Domino Pairs",
+      "folderName": "1128-number-of-equivalent-domino-pairs",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ]
+    },
+    "maximum-product-of-two-digits": {
+      "id": "3536",
+      "title": "Maximum Product of Two Digits",
+      "folderName": "3536-maximum-product-of-two-digits",
+      "topics": [
+        "Math",
+        "Sorting"
+      ]
+    },
+    "domino-and-tromino-tiling": {
+      "id": "790",
+      "title": "Domino and Tromino Tiling",
+      "folderName": "790-domino-and-tromino-tiling",
+      "topics": [
+        "Dynamic Programming"
+      ]
+    },
+    "binary-tree-preorder-traversal": {
+      "id": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "folderName": "144-binary-tree-preorder-traversal",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "binary-tree-inorder-traversal": {
+      "id": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "folderName": "94-binary-tree-inorder-traversal",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "binary-tree-postorder-traversal": {
+      "id": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "folderName": "145-binary-tree-postorder-traversal",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "binary-tree-zigzag-level-order-traversal": {
+      "id": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "folderName": "103-binary-tree-zigzag-level-order-traversal",
+      "topics": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "binary-tree-right-side-view": {
+      "id": "199",
+      "title": "Binary Tree Right Side View",
+      "folderName": "199-binary-tree-right-side-view",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "build-array-from-permutation": {
+      "id": "1920",
+      "title": "Build Array from Permutation",
+      "folderName": "1920-build-array-from-permutation",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    },
+    "find-minimum-time-to-reach-last-room-i": {
+      "id": "3341",
+      "title": "Find Minimum Time to Reach Last Room I",
+      "folderName": "3341-find-minimum-time-to-reach-last-room-i",
+      "topics": [
+        "Array",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Shortest Path"
+      ]
+    },
+    "find-minimum-time-to-reach-last-room-ii": {
+      "id": "3342",
+      "title": "Find Minimum Time to Reach Last Room II",
+      "folderName": "3342-find-minimum-time-to-reach-last-room-ii",
+      "topics": [
+        "Array",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Shortest Path"
+      ]
+    },
+    "house-robber-ii": {
+      "id": "213",
+      "title": "House Robber II",
+      "folderName": "213-house-robber-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "generate-parentheses": {
+      "id": "22",
+      "title": "Generate Parentheses",
+      "folderName": "22-generate-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking"
+      ]
+    },
+    "combination-sum-ii": {
+      "id": "40",
+      "title": "Combination Sum II",
+      "folderName": "40-combination-sum-ii",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ]
+    },
+    "subsets-ii": {
+      "id": "90",
+      "title": "Subsets II",
+      "folderName": "90-subsets-ii",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation"
+      ]
+    },
+    "combination-sum-iii": {
+      "id": "216",
+      "title": "Combination Sum III",
+      "folderName": "216-combination-sum-iii",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ]
+    },
+    "letter-combinations-of-a-phone-number": {
+      "id": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "folderName": "17-letter-combinations-of-a-phone-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ]
+    },
+    "kth-largest-element-in-an-array": {
+      "id": "215",
+      "title": "Kth Largest Element in an Array",
+      "folderName": "215-kth-largest-element-in-an-array",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ]
+    },
+    "frog-jump": {
+      "id": "403",
+      "title": "Frog Jump",
+      "folderName": "403-frog-jump",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "max-consecutive-ones-iii": {
+      "id": "1004",
+      "title": "Max Consecutive Ones III",
+      "folderName": "1004-max-consecutive-ones-iii",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    "fruit-into-baskets": {
+      "id": "904",
+      "title": "Fruit Into Baskets",
+      "folderName": "904-fruit-into-baskets",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ]
+    },
+    "longest-repeating-character-replacement": {
+      "id": "424",
+      "title": "Longest Repeating Character Replacement",
+      "folderName": "424-longest-repeating-character-replacement",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "minimum-number-of-days-to-make-m-bouquets": {
+      "id": "1482",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "folderName": "1482-minimum-number-of-days-to-make-m-bouquets",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "valid-anagram": {
+      "id": "242",
+      "title": "Valid Anagram",
+      "folderName": "242-valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    "sort-characters-by-frequency": {
+      "id": "451",
+      "title": "Sort Characters By Frequency",
+      "folderName": "451-sort-characters-by-frequency",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ]
+    },
+    "remove-outermost-parentheses": {
+      "id": "1021",
+      "title": "Remove Outermost Parentheses",
+      "folderName": "1021-remove-outermost-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    "largest-odd-number-in-string": {
+      "id": "1903",
+      "title": "Largest Odd Number in String",
+      "folderName": "1903-largest-odd-number-in-string",
+      "topics": [
+        "Math",
+        "String",
+        "Greedy"
+      ]
+    },
+    "maximum-nesting-depth-of-the-parentheses": {
+      "id": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "folderName": "1614-maximum-nesting-depth-of-the-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    "roman-to-integer": {
+      "id": "13",
+      "title": "Roman to Integer",
+      "folderName": "13-roman-to-integer",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ]
+    },
+    "sum-of-beauty-of-all-substrings": {
+      "id": "1781",
+      "title": "Sum of Beauty of All Substrings",
+      "folderName": "1781-sum-of-beauty-of-all-substrings",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    },
+    "longest-palindromic-substring": {
+      "id": "5",
+      "title": "Longest Palindromic Substring",
+      "folderName": "5-longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    "find-the-smallest-divisor-given-a-threshold": {
+      "id": "1283",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "folderName": "1283-find-the-smallest-divisor-given-a-threshold",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "kth-missing-positive-number": {
+      "id": "1539",
+      "title": "Kth Missing Positive Number",
+      "folderName": "1539-kth-missing-positive-number",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "count-the-number-of-computer-unlocking-permutations": {
+      "id": "3577",
+      "title": "Count the Number of Computer Unlocking Permutations",
+      "folderName": "3577-count-the-number-of-computer-unlocking-permutations",
+      "topics": [
+        "Array",
+        "Math",
+        "Brainteaser",
+        "Combinatorics"
+      ]
+    },
+    "trapping-rain-water": {
+      "id": "42",
+      "title": "Trapping Rain Water",
+      "folderName": "42-trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    "array-partition": {
+      "id": "561",
+      "title": "Array Partition",
+      "folderName": "561-array-partition",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Counting Sort"
+      ]
+    },
+    "merge-sorted-array": {
+      "id": "88",
+      "title": "Merge Sorted Array",
+      "folderName": "88-merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    "pascals-triangle-ii": {
+      "id": "119",
+      "title": "Pascal's Triangle II",
+      "folderName": "119-pascals-triangle-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "single-number": {
+      "id": "136",
+      "title": "Single Number",
+      "folderName": "136-single-number",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ]
+    },
+    "intersection-of-two-arrays": {
+      "id": "349",
+      "title": "Intersection of Two Arrays",
+      "folderName": "349-intersection-of-two-arrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
+    },
+    "third-maximum-number": {
+      "id": "414",
+      "title": "Third Maximum Number",
+      "folderName": "414-third-maximum-number",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "id": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "folderName": "121-best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "longest-common-prefix": {
+      "id": "14",
+      "title": "Longest Common Prefix",
+      "folderName": "14-longest-common-prefix",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
+    },
+    "is-subsequence": {
+      "id": "392",
+      "title": "Is Subsequence",
+      "folderName": "392-is-subsequence",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    "repeated-substring-pattern": {
+      "id": "459",
+      "title": "Repeated Substring Pattern",
+      "folderName": "459-repeated-substring-pattern",
+      "topics": [
+        "String",
+        "String Matching"
+      ]
+    },
+    "reverse-string": {
+      "id": "344",
+      "title": "Reverse String",
+      "folderName": "344-reverse-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "reverse-string-ii": {
+      "id": "541",
+      "title": "Reverse String II",
+      "folderName": "541-reverse-string-ii",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "add-binary": {
+      "id": "67",
+      "title": "Add Binary",
+      "folderName": "67-add-binary",
+      "topics": [
+        "Math",
+        "String",
+        "Bit Manipulation",
+        "Simulation"
+      ]
+    },
+    "length-of-last-word": {
+      "id": "58",
+      "title": "Length of Last Word",
+      "folderName": "58-length-of-last-word",
+      "topics": [
+        "String"
+      ]
+    },
+    "add-strings": {
+      "id": "415",
+      "title": "Add Strings",
+      "folderName": "415-add-strings",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    "excel-sheet-column-title": {
+      "id": "168",
+      "title": "Excel Sheet Column Title",
+      "folderName": "168-excel-sheet-column-title",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    "excel-sheet-column-number": {
+      "id": "171",
+      "title": "Excel Sheet Column Number",
+      "folderName": "171-excel-sheet-column-number",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    "longest-palindrome": {
+      "id": "409",
+      "title": "Longest Palindrome",
+      "folderName": "409-longest-palindrome",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy"
+      ]
+    },
+    "reorganize-string": {
+      "id": "767",
+      "title": "Reorganize String",
+      "folderName": "767-reorganize-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Counting"
+      ]
+    },
+    "break-a-palindrome": {
+      "id": "1328",
+      "title": "Break a Palindrome",
+      "folderName": "1328-break-a-palindrome",
+      "topics": [
+        "String",
+        "Greedy"
+      ]
+    },
+    "longest-substring-without-repeating-characters": {
+      "id": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "folderName": "3-longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "binary-search": {
+      "id": "704",
+      "title": "Binary Search",
+      "folderName": "704-binary-search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "search-insert-position": {
+      "id": "35",
+      "title": "Search Insert Position",
+      "folderName": "35-search-insert-position",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "koko-eating-bananas": {
+      "id": "875",
+      "title": "Koko Eating Bananas",
+      "folderName": "875-koko-eating-bananas",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "capacity-to-ship-packages-within-d-days": {
+      "id": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "folderName": "1011-capacity-to-ship-packages-within-d-days",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "majority-element": {
+      "id": "169",
+      "title": "Majority Element",
+      "folderName": "169-majority-element",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    "median-of-two-sorted-arrays": {
+      "id": "4",
+      "title": "Median of Two Sorted Arrays",
+      "folderName": "4-median-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ]
+    },
+    "next-greater-element-i": {
+      "id": "496",
+      "title": "Next Greater Element I",
+      "folderName": "496-next-greater-element-i",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    "delete-node-in-a-linked-list": {
+      "id": "237",
+      "title": "Delete Node in a Linked List",
+      "folderName": "237-delete-node-in-a-linked-list",
+      "topics": [
+        "Linked List"
+      ]
+    },
+    "intersection-of-two-linked-lists": {
+      "id": "160",
+      "title": "Intersection of Two Linked Lists",
+      "folderName": "160-intersection-of-two-linked-lists",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    "remove-linked-list-elements": {
+      "id": "203",
+      "title": "Remove Linked List Elements",
+      "folderName": "203-remove-linked-list-elements",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    "remove-nth-node-from-end-of-list": {
+      "id": "19",
+      "title": "Remove Nth Node From End of List",
+      "folderName": "19-remove-nth-node-from-end-of-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    "remove-duplicates-from-sorted-list-ii": {
+      "id": "82",
+      "title": "Remove Duplicates from Sorted List II",
+      "folderName": "82-remove-duplicates-from-sorted-list-ii",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    "merge-two-sorted-lists": {
+      "id": "21",
+      "title": "Merge Two Sorted Lists",
+      "folderName": "21-merge-two-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    "merge-k-sorted-lists": {
+      "id": "23",
+      "title": "Merge k Sorted Lists",
+      "folderName": "23-merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ]
+    },
+    "valid-parentheses": {
+      "id": "20",
+      "title": "Valid Parentheses",
+      "folderName": "20-valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    "simplify-path": {
+      "id": "71",
+      "title": "Simplify Path",
+      "folderName": "71-simplify-path",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    "implement-stack-using-queues": {
+      "id": "225",
+      "title": "Implement Stack using Queues",
+      "folderName": "225-implement-stack-using-queues",
+      "topics": [
+        "Stack",
+        "Design",
+        "Queue"
+      ]
+    },
+    "evaluate-reverse-polish-notation": {
+      "id": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "folderName": "150-evaluate-reverse-polish-notation",
+      "topics": [
+        "Array",
+        "Math",
+        "Stack"
+      ]
+    },
+    "longest-valid-parentheses": {
+      "id": "32",
+      "title": "Longest Valid Parentheses",
+      "folderName": "32-longest-valid-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack"
+      ]
+    },
+    "sum-of-subarray-minimums": {
+      "id": "907",
+      "title": "Sum of Subarray Minimums",
+      "folderName": "907-sum-of-subarray-minimums",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    "binary-tree-level-order-traversal": {
+      "id": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "folderName": "102-binary-tree-level-order-traversal",
+      "topics": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "all-elements-in-two-binary-search-trees": {
+      "id": "1305",
+      "title": "All Elements in Two Binary Search Trees",
+      "folderName": "1305-all-elements-in-two-binary-search-trees",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Sorting",
+        "Binary Tree"
+      ]
+    },
+    "convert-sorted-array-to-binary-search-tree": {
+      "id": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "folderName": "108-convert-sorted-array-to-binary-search-tree",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
+    },
+    "unique-binary-search-trees": {
+      "id": "96",
+      "title": "Unique Binary Search Trees",
+      "folderName": "96-unique-binary-search-trees",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
+    },
+    "kth-smallest-product-of-two-sorted-arrays": {
+      "id": "2040",
+      "title": "Kth Smallest Product of Two Sorted Arrays",
+      "folderName": "2040-kth-smallest-product-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "next-greater-element-ii": {
+      "id": "503",
+      "title": "Next Greater Element II",
+      "folderName": "503-next-greater-element-ii",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    "same-tree": {
+      "id": "100",
+      "title": "Same Tree",
+      "folderName": "100-same-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "balanced-binary-tree": {
+      "id": "110",
+      "title": "Balanced Binary Tree",
+      "folderName": "110-balanced-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "diameter-of-binary-tree": {
+      "id": "543",
+      "title": "Diameter of Binary Tree",
+      "folderName": "543-diameter-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "insert-delete-getrandom-o1": {
+      "id": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "folderName": "380-insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ]
+    },
+    "word-break": {
+      "id": "139",
+      "title": "Word Break",
+      "folderName": "139-word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    "number-of-islands": {
+      "id": "200",
+      "title": "Number of Islands",
+      "folderName": "200-number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    "coin-change": {
+      "id": "322",
+      "title": "Coin Change",
+      "folderName": "322-coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    "perfect-squares": {
+      "id": "279",
+      "title": "Perfect Squares",
+      "folderName": "279-perfect-squares",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    "find-lucky-integer-in-an-array": {
+      "id": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "folderName": "1394-find-lucky-integer-in-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ]
+    },
+    "merge-strings-alternately": {
+      "id": "1768",
+      "title": "Merge Strings Alternately",
+      "folderName": "1768-merge-strings-alternately",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "greatest-common-divisor-of-strings": {
+      "id": "1071",
+      "title": "Greatest Common Divisor of Strings",
+      "folderName": "1071-greatest-common-divisor-of-strings",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    "kids-with-the-greatest-number-of-candies": {
+      "id": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "folderName": "1431-kids-with-the-greatest-number-of-candies",
+      "topics": [
+        "Array"
+      ]
+    },
+    "can-place-flowers": {
+      "id": "605",
+      "title": "Can Place Flowers",
+      "folderName": "605-can-place-flowers",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    "leaf-similar-trees": {
+      "id": "872",
+      "title": "Leaf-Similar Trees",
+      "folderName": "872-leaf-similar-trees",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "count-good-nodes-in-binary-tree": {
+      "id": "1448",
+      "title": "Count Good Nodes in Binary Tree",
+      "folderName": "1448-count-good-nodes-in-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "path-sum": {
+      "id": "112",
+      "title": "Path Sum",
+      "folderName": "112-path-sum",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "path-sum-iii": {
+      "id": "437",
+      "title": "Path Sum III",
+      "folderName": "437-path-sum-iii",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "meeting-rooms-iii": {
+      "id": "2402",
+      "title": "Meeting Rooms III",
+      "folderName": "2402-meeting-rooms-iii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ]
+    },
+    "convert-binary-number-in-a-linked-list-to-integer": {
+      "id": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "folderName": "1290-convert-binary-number-in-a-linked-list-to-integer",
+      "topics": [
+        "Linked List",
+        "Math"
+      ]
+    },
+    "assign-cookies": {
+      "id": "455",
+      "title": "Assign Cookies",
+      "folderName": "455-assign-cookies",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    "lemonade-change": {
+      "id": "860",
+      "title": "Lemonade Change",
+      "folderName": "860-lemonade-change",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    "best-time-to-buy-and-sell-stock-ii": {
+      "id": "122",
+      "title": "Best Time to Buy and Sell Stock II",
+      "folderName": "122-best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    "reverse-vowels-of-a-string": {
+      "id": "345",
+      "title": "Reverse Vowels of a String",
+      "folderName": "345-reverse-vowels-of-a-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "increasing-triplet-subsequence": {
+      "id": "334",
+      "title": "Increasing Triplet Subsequence",
+      "folderName": "334-increasing-triplet-subsequence",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    "string-compression": {
+      "id": "443",
+      "title": "String Compression",
+      "folderName": "443-string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "max-number-of-k-sum-pairs": {
+      "id": "1679",
+      "title": "Max Number of K-Sum Pairs",
+      "folderName": "1679-max-number-of-k-sum-pairs",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    "maximum-average-subarray-i": {
+      "id": "643",
+      "title": "Maximum Average Subarray I",
+      "folderName": "643-maximum-average-subarray-i",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    "maximum-number-of-vowels-in-a-substring-of-given-length": {
+      "id": "1456",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "folderName": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "longest-subarray-of-1s-after-deleting-one-element": {
+      "id": "1493",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "folderName": "1493-longest-subarray-of-1s-after-deleting-one-element",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sliding Window"
+      ]
+    },
+    "house-robber": {
+      "id": "198",
+      "title": "House Robber",
+      "folderName": "198-house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "find-the-highest-altitude": {
+      "id": "1732",
+      "title": "Find the Highest Altitude",
+      "folderName": "1732-find-the-highest-altitude",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
+    },
+    "find-pivot-index": {
+      "id": "724",
+      "title": "Find Pivot Index",
+      "folderName": "724-find-pivot-index",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
+    },
+    "find-the-difference-of-two-arrays": {
+      "id": "2215",
+      "title": "Find the Difference of Two Arrays",
+      "folderName": "2215-find-the-difference-of-two-arrays",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    "unique-number-of-occurrences": {
+      "id": "1207",
+      "title": "Unique Number of Occurrences",
+      "folderName": "1207-unique-number-of-occurrences",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    "removing-stars-from-a-string": {
+      "id": "2390",
+      "title": "Removing Stars From a String",
+      "folderName": "2390-removing-stars-from-a-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    "determine-if-two-strings-are-close": {
+      "id": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "folderName": "1657-determine-if-two-strings-are-close",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    "equal-row-and-column-pairs": {
+      "id": "2352",
+      "title": "Equal Row and Column Pairs",
+      "folderName": "2352-equal-row-and-column-pairs",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    "guess-number-higher-or-lower": {
+      "id": "374",
+      "title": "Guess Number Higher or Lower",
+      "folderName": "374-guess-number-higher-or-lower",
+      "topics": [
+        "Binary Search",
+        "Interactive"
+      ]
+    },
+    "successful-pairs-of-spells-and-potions": {
+      "id": "2300",
+      "title": "Successful Pairs of Spells and Potions",
+      "folderName": "2300-successful-pairs-of-spells-and-potions",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
+    },
+    "online-stock-span": {
+      "id": "901",
+      "title": "Online Stock Span",
+      "folderName": "901-online-stock-span",
+      "topics": [
+        "Stack",
+        "Design",
+        "Monotonic Stack",
+        "Data Stream"
+      ]
+    },
+    "daily-temperatures": {
+      "id": "739",
+      "title": "Daily Temperatures",
+      "folderName": "739-daily-temperatures",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    "minimum-number-of-arrows-to-burst-balloons": {
+      "id": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "folderName": "452-minimum-number-of-arrows-to-burst-balloons",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    "non-overlapping-intervals": {
+      "id": "435",
+      "title": "Non-overlapping Intervals",
+      "folderName": "435-non-overlapping-intervals",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    "implement-trie-prefix-tree": {
+      "id": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "folderName": "208-implement-trie-prefix-tree",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    "search-suggestions-system": {
+      "id": "1268",
+      "title": "Search Suggestions System",
+      "folderName": "1268-search-suggestions-system",
+      "topics": [
+        "Array",
+        "String",
+        "Binary Search",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    "minimum-flips-to-make-a-or-b-equal-to-c": {
+      "id": "1318",
+      "title": "Minimum Flips to Make a OR b Equal to c",
+      "folderName": "1318-minimum-flips-to-make-a-or-b-equal-to-c",
+      "topics": [
+        "Bit Manipulation"
+      ]
+    },
+    "counting-bits": {
+      "id": "338",
+      "title": "Counting Bits",
+      "folderName": "338-counting-bits",
+      "topics": [
+        "Dynamic Programming",
+        "Bit Manipulation"
+      ]
+    },
+    "asteroid-collision": {
+      "id": "735",
+      "title": "Asteroid Collision",
+      "folderName": "735-asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    "count-hills-and-valleys-in-an-array": {
+      "id": "2210",
+      "title": "Count Hills and Valleys in an Array",
+      "folderName": "2210-count-hills-and-valleys-in-an-array",
+      "topics": [
+        "Array"
+      ]
+    },
+    "decode-string": {
+      "id": "394",
+      "title": "Decode String",
+      "folderName": "394-decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    "number-of-recent-calls": {
+      "id": "933",
+      "title": "Number of Recent Calls",
+      "folderName": "933-number-of-recent-calls",
+      "topics": [
+        "Design",
+        "Queue",
+        "Data Stream"
+      ]
+    },
+    "dota2-senate": {
+      "id": "649",
+      "title": "Dota2 Senate",
+      "folderName": "649-dota2-senate",
+      "topics": [
+        "String",
+        "Greedy",
+        "Queue"
+      ]
+    },
+    "maximum-twin-sum-of-a-linked-list": {
+      "id": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "folderName": "2130-maximum-twin-sum-of-a-linked-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack"
+      ]
+    },
+    "longest-zigzag-path-in-a-binary-tree": {
+      "id": "1372",
+      "title": "Longest ZigZag Path in a Binary Tree",
+      "folderName": "1372-longest-zigzag-path-in-a-binary-tree",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "lowest-common-ancestor-of-a-binary-tree": {
+      "id": "236",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "folderName": "236-lowest-common-ancestor-of-a-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "maximum-level-sum-of-a-binary-tree": {
+      "id": "1161",
+      "title": "Maximum Level Sum of a Binary Tree",
+      "folderName": "1161-maximum-level-sum-of-a-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "search-in-a-binary-search-tree": {
+      "id": "700",
+      "title": "Search in a Binary Search Tree",
+      "folderName": "700-search-in-a-binary-search-tree",
+      "topics": [
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
+    },
+    "delete-node-in-a-bst": {
+      "id": "450",
+      "title": "Delete Node in a BST",
+      "folderName": "450-delete-node-in-a-bst",
+      "topics": [
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
+    },
+    "smallest-number-in-infinite-set": {
+      "id": "2336",
+      "title": "Smallest Number in Infinite Set",
+      "folderName": "2336-smallest-number-in-infinite-set",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Heap (Priority Queue)",
+        "Ordered Set"
+      ]
+    },
+    "maximum-subsequence-score": {
+      "id": "2542",
+      "title": "Maximum Subsequence Score",
+      "folderName": "2542-maximum-subsequence-score",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    "climbing-stairs": {
+      "id": "70",
+      "title": "Climbing Stairs",
+      "folderName": "70-climbing-stairs",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    },
+    "fibonacci-number": {
+      "id": "509",
+      "title": "Fibonacci Number",
+      "folderName": "509-fibonacci-number",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+      ]
+    },
+    "n-th-tribonacci-number": {
+      "id": "1137",
+      "title": "N-th Tribonacci Number",
+      "folderName": "1137-n-th-tribonacci-number",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    },
+    "min-cost-climbing-stairs": {
+      "id": "746",
+      "title": "Min Cost Climbing Stairs",
+      "folderName": "746-min-cost-climbing-stairs",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "maximum-depth-of-binary-tree": {
+      "id": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "folderName": "104-maximum-depth-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "number-of-provinces": {
+      "id": "547",
+      "title": "Number of Provinces",
+      "folderName": "547-number-of-provinces",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    "find-first-and-last-position-of-element-in-sorted-array": {
+      "id": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "folderName": "34-find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "flood-fill": {
+      "id": "733",
+      "title": "Flood Fill",
+      "folderName": "733-flood-fill",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    "binary-subarrays-with-sum": {
+      "id": "930",
+      "title": "Binary Subarrays With Sum",
+      "folderName": "930-binary-subarrays-with-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    "count-number-of-nice-subarrays": {
+      "id": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "folderName": "1248-count-number-of-nice-subarrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    "find-closest-person": {
+      "id": "3516",
+      "title": "Find Closest Person",
+      "folderName": "3516-find-closest-person",
+      "topics": [
+        "Math"
+      ]
+    },
+    "string-to-integer-atoi": {
+      "id": "8",
+      "title": "String to Integer (atoi)",
+      "folderName": "8-string-to-integer-atoi",
+      "topics": [
+        "String"
+      ]
+    },
+    "adjacent-increasing-subarrays-detection-i": {
+      "id": "3349",
+      "title": "Adjacent Increasing Subarrays Detection I",
+      "folderName": "3349-adjacent-increasing-subarrays-detection-i",
+      "topics": [
+        "Array"
+      ]
+    },
+    "string-compression-iii": {
+      "id": "3163",
+      "title": "String Compression III",
+      "folderName": "3163-string-compression-iii",
+      "topics": [
+        "String"
+      ]
+    },
+    "count-elements-with-maximum-frequency": {
+      "id": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "folderName": "3005-count-elements-with-maximum-frequency",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ]
+    },
+    "minimum-add-to-make-parentheses-valid": {
+      "id": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "folderName": "921-minimum-add-to-make-parentheses-valid",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy"
+      ]
+    },
+    "repeated-string-match": {
+      "id": "686",
+      "title": "Repeated String Match",
+      "folderName": "686-repeated-string-match",
+      "topics": [
+        "String",
+        "String Matching"
+      ]
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "id": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "folderName": "28-find-the-index-of-the-first-occurrence-in-a-string",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching"
+      ]
+    },
+    "find-peak-element": {
+      "id": "162",
+      "title": "Find Peak Element",
+      "folderName": "162-find-peak-element",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "rotting-oranges": {
+      "id": "994",
+      "title": "Rotting Oranges",
+      "folderName": "994-rotting-oranges",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    "word-ladder": {
+      "id": "127",
+      "title": "Word Ladder",
+      "folderName": "127-word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ]
+    },
+    "course-schedule": {
+      "id": "207",
+      "title": "Course Schedule",
+      "folderName": "207-course-schedule",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ]
+    },
+    "check-if-array-is-sorted-and-rotated": {
+      "id": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "folderName": "1752-check-if-array-is-sorted-and-rotated",
+      "topics": [
+        "Array"
+      ]
+    },
+    "remove-duplicates-from-sorted-array": {
+      "id": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "folderName": "26-remove-duplicates-from-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    "rotate-array": {
+      "id": "189",
+      "title": "Rotate Array",
+      "folderName": "189-rotate-array",
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ]
+    },
+    "concatenation-of-array": {
+      "id": "1929",
+      "title": "Concatenation of Array",
+      "folderName": "1929-concatenation-of-array",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    },
+    "shuffle-the-array": {
+      "id": "1470",
+      "title": "Shuffle the Array",
+      "folderName": "1470-shuffle-the-array",
+      "topics": [
+        "Array"
+      ]
+    },
+    "max-consecutive-ones": {
+      "id": "485",
+      "title": "Max Consecutive Ones",
+      "folderName": "485-max-consecutive-ones",
+      "topics": [
+        "Array"
+      ]
+    },
+    "maximum-subarray": {
+      "id": "53",
+      "title": "Maximum Subarray",
+      "folderName": "53-maximum-subarray",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ]
+    },
+    "majority-element-ii": {
+      "id": "229",
+      "title": "Majority Element II",
+      "folderName": "229-majority-element-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    "maximum-product-subarray": {
+      "id": "152",
+      "title": "Maximum Product Subarray",
+      "folderName": "152-maximum-product-subarray",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "search-in-rotated-sorted-array-ii": {
+      "id": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "folderName": "81-search-in-rotated-sorted-array-ii",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "id": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "folderName": "153-find-minimum-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "subsets": {
+      "id": "78",
+      "title": "Subsets",
+      "folderName": "78-subsets",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation"
+      ]
+    },
+    "combination-sum": {
+      "id": "39",
+      "title": "Combination Sum",
+      "folderName": "39-combination-sum",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ]
+    },
+    "n-queens": {
+      "id": "51",
+      "title": "N-Queens",
+      "folderName": "51-n-queens",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ]
+    },
+    "sudoku-solver": {
+      "id": "37",
+      "title": "Sudoku Solver",
+      "folderName": "37-sudoku-solver",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Backtracking",
+        "Matrix"
+      ]
+    },
+    "word-search": {
+      "id": "79",
+      "title": "Word Search",
+      "folderName": "79-word-search",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ]
+    },
+    "next-permutation": {
+      "id": "31",
+      "title": "Next Permutation",
+      "folderName": "31-next-permutation",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    "reverse-words-in-a-string": {
+      "id": "151",
+      "title": "Reverse Words in a String",
+      "folderName": "151-reverse-words-in-a-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "set-matrix-zeroes": {
+      "id": "73",
+      "title": "Set Matrix Zeroes",
+      "folderName": "73-set-matrix-zeroes",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    "pascals-triangle": {
+      "id": "118",
+      "title": "Pascal's Triangle",
+      "folderName": "118-pascals-triangle",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "smallest-pair-with-different-frequencies": {
+      "id": "3852",
+      "title": "Smallest Pair With Different Frequencies",
+      "folderName": "3852-smallest-pair-with-different-frequencies",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ]
+    },
+    "sum-of-k-digit-numbers-in-a-range": {
+      "id": "3855",
+      "title": "Sum of K-Digit Numbers in a Range",
+      "folderName": "3855-sum-of-k-digit-numbers-in-a-range",
+      "topics": [
+        "Math",
+        "Divide and Conquer",
+        "Combinatorics",
+        "Number Theory"
+      ]
+    },
+    "merge-close-characters": {
+      "id": "3853",
+      "title": "Merge Close Characters",
+      "folderName": "3853-merge-close-characters",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "create-hello-world-function": {
+      "id": "2667",
+      "title": "Create Hello World Function",
+      "folderName": "2667-create-hello-world-function",
+      "topics": []
+    },
+    "find-the-degree-of-each-vertex": {
+      "id": "3898",
+      "title": "Find the Degree of Each Vertex",
+      "folderName": "3898-find-the-degree-of-each-vertex",
+      "topics": [
+        "Array",
+        "Graph Theory",
+        "Matrix"
+      ]
+    },
+    "angles-of-a-triangle": {
+      "id": "3899",
+      "title": "Angles of a Triangle",
+      "folderName": "3899-angles-of-a-triangle",
+      "topics": [
+        "Array",
+        "Math",
+        "Geometry"
+      ]
+    },
+    "rotate-function": {
+      "id": "396",
+      "title": "Rotate Function",
+      "folderName": "396-rotate-function",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming"
+      ]
+    },
+    "score-validator": {
+      "id": "3921",
+      "title": "Score Validator",
+      "folderName": "3921-score-validator",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    },
+    "minimum-swaps-to-move-zeros-to-end": {
+      "id": "3936",
+      "title": "Minimum Swaps to Move Zeros to End",
+      "folderName": "3936-minimum-swaps-to-move-zeros-to-end",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    "two-sum-ii-input-array-is-sorted": {
+      "id": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "folderName": "167-two-sum-ii-input-array-is-sorted",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search"
+      ]
+    },
+    "remove-duplicates-from-sorted-list": {
+      "id": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "folderName": "83-remove-duplicates-from-sorted-list",
+      "topics": [
+        "Linked List"
+      ]
+    },
+    "squares-of-a-sorted-array": {
+      "id": "977",
+      "title": "Squares of a Sorted Array",
+      "folderName": "977-squares-of-a-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    "3sum": {
+      "id": "15",
+      "title": "3Sum",
+      "folderName": "15-3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    "3sum-closest": {
+      "id": "16",
+      "title": "3Sum Closest",
+      "folderName": "16-3sum-closest",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    "subarray-product-less-than-k": {
+      "id": "713",
+      "title": "Subarray Product Less Than K",
+      "folderName": "713-subarray-product-less-than-k",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    "sort-colors": {
+      "id": "75",
+      "title": "Sort Colors",
+      "folderName": "75-sort-colors",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    "4sum": {
+      "id": "18",
+      "title": "4Sum",
+      "folderName": "18-4sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    "backspace-string-compare": {
+      "id": "844",
+      "title": "Backspace String Compare",
+      "folderName": "844-backspace-string-compare",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    "shortest-unsorted-continuous-subarray": {
+      "id": "581",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "folderName": "581-shortest-unsorted-continuous-subarray",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Stack",
+        "Greedy",
+        "Sorting",
+        "Monotonic Stack"
+      ]
+    },
+    "linked-list-cycle": {
+      "id": "141",
+      "title": "Linked List Cycle",
+      "folderName": "141-linked-list-cycle",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    "linked-list-cycle-ii": {
+      "id": "142",
+      "title": "Linked List Cycle II",
+      "folderName": "142-linked-list-cycle-ii",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    "angle-between-hands-of-a-clock": {
+      "id": "1344",
+      "title": "Angle Between Hands of a Clock",
+      "folderName": "1344-angle-between-hands-of-a-clock",
+      "topics": [
+        "Math"
+      ]
+    },
+    "happy-number": {
+      "id": "202",
+      "title": "Happy Number",
+      "folderName": "202-happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ]
+    },
+    "find-the-duplicate-number": {
+      "id": "287",
+      "title": "Find the Duplicate Number",
+      "folderName": "287-find-the-duplicate-number",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation"
+      ]
+    },
+    "middle-of-the-linked-list": {
+      "id": "876",
+      "title": "Middle of the Linked List",
+      "folderName": "876-middle-of-the-linked-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    "number-of-zigzag-arrays-i": {
+      "id": "3699",
+      "title": "Number of ZigZag Arrays I",
+      "folderName": "3699-number-of-zigzag-arrays-i",
+      "topics": [
+        "Dynamic Programming",
+        "Prefix Sum"
+      ]
+    },
+    "palindrome-linked-list": {
+      "id": "234",
+      "title": "Palindrome Linked List",
+      "folderName": "234-palindrome-linked-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    "count-subarrays-with-majority-element-i": {
+      "id": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "folderName": "3737-count-subarrays-with-majority-element-i",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Segment Tree",
+        "Merge Sort",
+        "Counting",
+        "Prefix Sum"
+      ]
+    },
+    "reorder-list": {
+      "id": "143",
+      "title": "Reorder List",
+      "folderName": "143-reorder-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    "circular-array-loop": {
+      "id": "457",
+      "title": "Circular Array Loop",
+      "folderName": "457-circular-array-loop",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers"
+      ]
+    },
+    "minimum-size-subarray-sum": {
+      "id": "209",
+      "title": "Minimum Size Subarray Sum",
+      "folderName": "209-minimum-size-subarray-sum",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    "number-of-strings-that-appear-as-substrings-in-word": {
+      "id": "1967",
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "folderName": "1967-number-of-strings-that-appear-as-substrings-in-word",
+      "topics": [
+        "Array",
+        "String"
+      ]
+    },
+    "number-of-substrings-containing-all-three-characters": {
+      "id": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "folderName": "1358-number-of-substrings-containing-all-three-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "unique-middle-element": {
+      "id": "3978",
+      "title": "Unique Middle Element",
+      "folderName": "3978-unique-middle-element",
+      "topics": []
+    },
+    "maximum-valid-pair-sum": {
+      "id": "3979",
+      "title": "Maximum Valid Pair Sum",
+      "folderName": "3979-maximum-valid-pair-sum",
+      "topics": []
+    },
+    "minimum-operations-to-transform-binary-string": {
+      "id": "3980",
+      "title": "Minimum Operations to Transform Binary String",
+      "folderName": "3980-minimum-operations-to-transform-binary-string",
+      "topics": []
+    },
+    "minimum-score-of-a-path-between-two-cities": {
+      "id": "2492",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "folderName": "2492-minimum-score-of-a-path-between-two-cities",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    "number-of-paths-with-max-score": {
+      "id": "1301",
+      "title": "Number of Paths with Max Score",
+      "folderName": "1301-number-of-paths-with-max-score",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ]
+    },
+    "remove-covered-intervals": {
+      "id": "1288",
+      "title": "Remove Covered Intervals",
+      "folderName": "1288-remove-covered-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    "concatenate-non-zero-digits-and-multiply-by-sum-i": {
+      "id": "3754",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "folderName": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "topics": [
+        "Math"
+      ]
+    },
+    "concatenate-non-zero-digits-and-multiply-by-sum-ii": {
+      "id": "3756",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "folderName": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii",
+      "topics": [
+        "Math",
+        "String",
+        "Prefix Sum"
+      ]
+    },
+    "path-existence-queries-in-a-graph-i": {
+      "id": "3532",
+      "title": "Path Existence Queries in a Graph I",
+      "folderName": "3532-path-existence-queries-in-a-graph-i",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    "path-existence-queries-in-a-graph-ii": {
+      "id": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "folderName": "3534-path-existence-queries-in-a-graph-ii",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Bit Manipulation",
+        "Graph Theory",
+        "Sorting"
+      ]
+    },
+    "product-of-array-except-self": {
+      "id": "238",
+      "title": "Product of Array Except Self",
+      "folderName": "238-product-of-array-except-self",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
+    },
+    "top-k-frequent-elements": {
+      "id": "347",
+      "title": "Top K Frequent Elements",
+      "folderName": "347-top-k-frequent-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ]
+    },
+    "inverse-coin-change": {
+      "id": "3592",
+      "title": "Inverse Coin Change",
+      "folderName": "3592-inverse-coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "count-the-number-of-complete-components": {
+      "id": "2685",
+      "title": "Count the Number of Complete Components",
+      "folderName": "2685-count-the-number-of-complete-components",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    "rank-transform-of-an-array": {
+      "id": "1331",
+      "title": "Rank Transform of an Array",
+      "folderName": "1331-rank-transform-of-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
+    },
+    "sequential-digits": {
+      "id": "1291",
+      "title": "Sequential Digits",
+      "folderName": "1291-sequential-digits",
+      "topics": [
+        "Enumeration"
+      ]
+    },
+    "reverse-integer": {
+      "id": "7",
+      "title": "Reverse Integer",
+      "folderName": "7-reverse-integer",
+      "topics": [
+        "Math"
+      ]
+    },
+    "palindrome-number": {
+      "id": "9",
+      "title": "Palindrome Number",
+      "folderName": "9-palindrome-number",
+      "topics": [
+        "Math"
+      ]
+    },
+    "find-the-number-of-subsequences-with-equal-gcd": {
+      "id": "3336",
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "folderName": "3336-find-the-number-of-subsequences-with-equal-gcd",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Number Theory"
+      ]
+    },
+    "gcd-of-odd-and-even-sums": {
+      "id": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "folderName": "3658-gcd-of-odd-and-even-sums",
+      "topics": [
+        "Math",
+        "Number Theory"
+      ]
+    },
+    "sum-of-gcd-of-formed-pairs": {
+      "id": "3867",
+      "title": "Sum of GCD of Formed Pairs",
+      "folderName": "3867-sum-of-gcd-of-formed-pairs",
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers",
+        "Sorting",
+        "Simulation",
+        "Number Theory"
+      ]
+    },
+    "move-zeroes": {
+      "id": "283",
+      "title": "Move Zeroes",
+      "folderName": "283-move-zeroes",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    "two-sum": {
+      "id": "1",
+      "title": "Two Sum",
+      "folderName": "1-two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    "find-the-safest-path-in-a-grid": {
+      "id": "2812",
+      "title": "Find the Safest Path in a Grid",
+      "folderName": "2812-find-the-safest-path-in-a-grid",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ]
+    },
+    "find-a-safe-walk-through-a-grid": {
+      "id": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "folderName": "3286-find-a-safe-walk-through-a-grid",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Shortest Path"
+      ]
+    },
+    "network-recovery-pathways": {
+      "id": "3620",
+      "title": "Network Recovery Pathways",
+      "folderName": "3620-network-recovery-pathways",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Graph Theory",
+        "Topological Sort",
+        "Heap (Priority Queue)",
+        "Shortest Path"
+      ]
+    },
+    "sorted-gcd-pair-queries": {
+      "id": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "folderName": "3312-sorted-gcd-pair-queries",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Combinatorics",
+        "Counting",
+        "Number Theory",
+        "Prefix Sum"
+      ]
+    },
+    "rearrange-string-to-avoid-character-pair": {
+      "id": "3992",
+      "title": "Rearrange String to Avoid Character Pair",
+      "folderName": "3992-rearrange-string-to-avoid-character-pair",
+      "topics": []
+    },
+    "maximum-value-of-an-alternating-sequence": {
+      "id": "3993",
+      "title": "Maximum Value of an Alternating Sequence",
+      "folderName": "3993-maximum-value-of-an-alternating-sequence",
+      "topics": []
+    },
+    "minimum-adjacent-swaps-to-partition-array": {
+      "id": "3994",
+      "title": "Minimum Adjacent Swaps to Partition Array",
+      "folderName": "3994-minimum-adjacent-swaps-to-partition-array",
+      "topics": []
+    },
+    "find-greatest-common-divisor-of-array": {
+      "id": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "folderName": "1979-find-greatest-common-divisor-of-array",
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ]
+    },
+    "count-residue-prefixes": {
+      "id": "3803",
+      "title": "Count Residue Prefixes",
+      "folderName": "3803-count-residue-prefixes",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "transform-array-to-all-equal-elements": {
+      "id": "3576",
+      "title": "Transform Array to All Equal Elements",
+      "folderName": "3576-transform-array-to-all-equal-elements",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    }
+  }
 }
