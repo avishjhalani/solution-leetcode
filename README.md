@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [860-lemonade-change](https://github.com/avishjhalani/solution-leetcode/tree/main/860-lemonade-change) |
 | [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/avishjhalani/solution-leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/avishjhalani/solution-leetcode/tree/main/1328-break-a-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1903-largest-odd-number-in-string) |
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [739-daily-temperatures](https://github.com/avishjhalani/solution-leetcode/tree/main/739-daily-temperatures) |
 | [901-online-stock-span](https://github.com/avishjhalani/solution-leetcode/tree/main/901-online-stock-span) |
 | [907-sum-of-subarray-minimums](https://github.com/avishjhalani/solution-leetcode/tree/main/907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [907-sum-of-subarray-minimums](https://github.com/avishjhalani/solution-leetcode/tree/main/907-sum-of-subarray-minimums) |
 | [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/avishjhalani/solution-leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2390-removing-stars-from-a-string) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters) |
 | [1268-search-suggestions-system](https://github.com/avishjhalani/solution-leetcode/tree/main/1268-search-suggestions-system) |
 | [1328-break-a-palindrome](https://github.com/avishjhalani/solution-leetcode/tree/main/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
