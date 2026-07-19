@@ -304,7 +304,8 @@
     "2072467998",
     "2072503386",
     "2072509278",
-    "2072713067"
+    "2072713067",
+    "2073261185"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3265,6 +3266,17 @@
       "topics": [
         "Array",
         "Greedy"
+      ]
+    },
+    "remove-duplicate-letters": {
+      "id": "316",
+      "title": "Remove Duplicate Letters",
+      "folderName": "316-remove-duplicate-letters",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
       ]
     }
   }
