@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/avishjhalani/solution-leetcode/tree/main/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avishjhalani/solution-leetcode/tree/main/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/avishjhalani/solution-leetcode/tree/main/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/avishjhalani/solution-leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/avishjhalani/solution-leetcode/tree/main/1288-remove-covered-intervals) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [200-number-of-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/200-number-of-islands) |
 | [733-flood-fill](https://github.com/avishjhalani/solution-leetcode/tree/main/733-flood-fill) |
 | [994-rotting-oranges](https://github.com/avishjhalani/solution-leetcode/tree/main/994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/avishjhalani/solution-leetcode/tree/main/1301-number-of-paths-with-max-score) |
 | [2352-equal-row-and-column-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/2812-find-the-safest-path-in-a-grid) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [415-add-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/415-add-strings) |
 | [735-asteroid-collision](https://github.com/avishjhalani/solution-leetcode/tree/main/735-asteroid-collision) |
 | [844-backspace-string-compare](https://github.com/avishjhalani/solution-leetcode/tree/main/844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/avishjhalani/solution-leetcode/tree/main/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/avishjhalani/solution-leetcode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1929-concatenation-of-array) |
