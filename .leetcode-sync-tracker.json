@@ -306,7 +306,8 @@
     "2072509278",
     "2072713067",
     "2073261185",
-    "2073261411"
+    "2073261411",
+    "2074916209"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3289,6 +3290,16 @@
         "Stack",
         "Greedy",
         "Monotonic Stack"
+      ]
+    },
+    "shift-2d-grid": {
+      "id": "1260",
+      "title": "Shift 2D Grid",
+      "folderName": "1260-shift-2d-grid",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
       ]
     }
   }
