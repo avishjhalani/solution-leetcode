@@ -13,6 +13,6 @@ public:
                 temp =0;
             }
         }
-        return max(temp,ans);
+        return ans;
     }
 };
