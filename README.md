@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 ## Geometry
 |  |
 | ------- |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2390-removing-stars-from-a-string) |
 | [3163-string-compression-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3163-string-compression-iii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3803-count-residue-prefixes](https://github.com/avishjhalani/solution-leetcode/tree/main/3803-count-residue-prefixes) |
 | [3853-merge-close-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/3853-merge-close-characters) |
