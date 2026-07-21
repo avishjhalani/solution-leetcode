@@ -312,7 +312,8 @@
     "2074956020",
     "2074957196",
     "2074957755",
-    "2075491251"
+    "2075491251",
+    "2076043238"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3305,6 +3306,15 @@
         "Array",
         "Matrix",
         "Simulation"
+      ]
+    },
+    "maximize-active-section-with-trade-i": {
+      "id": "3499",
+      "title": "Maximize Active Section with Trade I",
+      "folderName": "3499-maximize-active-section-with-trade-i",
+      "topics": [
+        "String",
+        "Enumeration"
       ]
     }
   }
