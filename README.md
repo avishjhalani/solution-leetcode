@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3349-adjacent-increasing-subarrays-detection-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3576-transform-array-to-all-equal-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/avishjhalani/solution-leetcode/tree/main/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/avishjhalani/solution-leetcode/tree/main/3620-network-recovery-pathways) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
 ## Shortest Path
 |  |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2390-removing-stars-from-a-string) |
 | [3163-string-compression-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3803-count-residue-prefixes](https://github.com/avishjhalani/solution-leetcode/tree/main/3803-count-residue-prefixes) |
 | [3853-merge-close-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/3853-merge-close-characters) |
