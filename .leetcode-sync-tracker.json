@@ -313,7 +313,8 @@
     "2074957196",
     "2074957755",
     "2075491251",
-    "2076043238"
+    "2076043238",
+    "2077450880"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3315,6 +3316,17 @@
       "topics": [
         "String",
         "Enumeration"
+      ]
+    },
+    "maximize-active-section-with-trade-ii": {
+      "id": "3501",
+      "title": "Maximize Active Section with Trade II",
+      "folderName": "3501-maximize-active-section-with-trade-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Binary Search",
+        "Segment Tree"
       ]
     }
   }
