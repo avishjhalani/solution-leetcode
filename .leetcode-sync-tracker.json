@@ -313,7 +313,8 @@
     "2079696036",
     "2079979525",
     "2080624136",
-    "2081144968"
+    "2081144968",
+    "2081763319"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3355,6 +3356,16 @@
       "title": "Maximum Product of Two Digits",
       "folderName": "3536-maximum-product-of-two-digits",
       "topics": [
+        "Math",
+        "Sorting"
+      ]
+    },
+    "maximum-product-of-three-numbers": {
+      "id": "628",
+      "title": "Maximum Product of Three Numbers",
+      "folderName": "628-maximum-product-of-three-numbers",
+      "topics": [
+        "Array",
         "Math",
         "Sorting"
       ]
