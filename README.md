@@ -23,6 +23,7 @@
 | [40-combination-sum-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/40-combination-sum-ii) |
 | [42-trapping-rain-water](https://github.com/avishjhalani/solution-leetcode/tree/main/42-trapping-rain-water) |
 | [45-jump-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/45-jump-game-ii) |
+| [48-rotate-image](https://github.com/avishjhalani/solution-leetcode/tree/main/48-rotate-image) |
 | [51-n-queens](https://github.com/avishjhalani/solution-leetcode/tree/main/51-n-queens) |
 | [53-maximum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/53-maximum-subarray) |
 | [55-jump-game](https://github.com/avishjhalani/solution-leetcode/tree/main/55-jump-game) |
@@ -592,6 +593,7 @@
 | [7-reverse-integer](https://github.com/avishjhalani/solution-leetcode/tree/main/7-reverse-integer) |
 | [9-palindrome-number](https://github.com/avishjhalani/solution-leetcode/tree/main/9-palindrome-number) |
 | [13-roman-to-integer](https://github.com/avishjhalani/solution-leetcode/tree/main/13-roman-to-integer) |
+| [48-rotate-image](https://github.com/avishjhalani/solution-leetcode/tree/main/48-rotate-image) |
 | [67-add-binary](https://github.com/avishjhalani/solution-leetcode/tree/main/67-add-binary) |
 | [70-climbing-stairs](https://github.com/avishjhalani/solution-leetcode/tree/main/70-climbing-stairs) |
 | [96-unique-binary-search-trees](https://github.com/avishjhalani/solution-leetcode/tree/main/96-unique-binary-search-trees) |
@@ -633,6 +635,7 @@
 |  |
 | ------- |
 | [37-sudoku-solver](https://github.com/avishjhalani/solution-leetcode/tree/main/37-sudoku-solver) |
+| [48-rotate-image](https://github.com/avishjhalani/solution-leetcode/tree/main/48-rotate-image) |
 | [73-set-matrix-zeroes](https://github.com/avishjhalani/solution-leetcode/tree/main/73-set-matrix-zeroes) |
 | [79-word-search](https://github.com/avishjhalani/solution-leetcode/tree/main/79-word-search) |
 | [200-number-of-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/200-number-of-islands) |
