@@ -26,6 +26,7 @@
 | [48-rotate-image](https://github.com/avishjhalani/solution-leetcode/tree/main/48-rotate-image) |
 | [51-n-queens](https://github.com/avishjhalani/solution-leetcode/tree/main/51-n-queens) |
 | [53-maximum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/53-maximum-subarray) |
+| [54-spiral-matrix](https://github.com/avishjhalani/solution-leetcode/tree/main/54-spiral-matrix) |
 | [55-jump-game](https://github.com/avishjhalani/solution-leetcode/tree/main/55-jump-game) |
 | [73-set-matrix-zeroes](https://github.com/avishjhalani/solution-leetcode/tree/main/73-set-matrix-zeroes) |
 | [75-sort-colors](https://github.com/avishjhalani/solution-leetcode/tree/main/75-sort-colors) |
@@ -636,6 +637,7 @@
 | ------- |
 | [37-sudoku-solver](https://github.com/avishjhalani/solution-leetcode/tree/main/37-sudoku-solver) |
 | [48-rotate-image](https://github.com/avishjhalani/solution-leetcode/tree/main/48-rotate-image) |
+| [54-spiral-matrix](https://github.com/avishjhalani/solution-leetcode/tree/main/54-spiral-matrix) |
 | [73-set-matrix-zeroes](https://github.com/avishjhalani/solution-leetcode/tree/main/73-set-matrix-zeroes) |
 | [79-word-search](https://github.com/avishjhalani/solution-leetcode/tree/main/79-word-search) |
 | [200-number-of-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/200-number-of-islands) |
@@ -758,6 +760,7 @@
 ## Simulation
 |  |
 | ------- |
+| [54-spiral-matrix](https://github.com/avishjhalani/solution-leetcode/tree/main/54-spiral-matrix) |
 | [67-add-binary](https://github.com/avishjhalani/solution-leetcode/tree/main/67-add-binary) |
 | [415-add-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/415-add-strings) |
 | [735-asteroid-collision](https://github.com/avishjhalani/solution-leetcode/tree/main/735-asteroid-collision) |
