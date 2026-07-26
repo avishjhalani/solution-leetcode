@@ -81,6 +81,7 @@
 | [561-array-partition](https://github.com/avishjhalani/solution-leetcode/tree/main/561-array-partition) |
 | [581-shortest-unsorted-continuous-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/581-shortest-unsorted-continuous-subarray) |
 | [605-can-place-flowers](https://github.com/avishjhalani/solution-leetcode/tree/main/605-can-place-flowers) |
+| [628-maximum-product-of-three-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/628-maximum-product-of-three-numbers) |
 | [643-maximum-average-subarray-i](https://github.com/avishjhalani/solution-leetcode/tree/main/643-maximum-average-subarray-i) |
 | [704-binary-search](https://github.com/avishjhalani/solution-leetcode/tree/main/704-binary-search) |
 | [713-subarray-product-less-than-k](https://github.com/avishjhalani/solution-leetcode/tree/main/713-subarray-product-less-than-k) |
@@ -605,6 +606,7 @@
 | [396-rotate-function](https://github.com/avishjhalani/solution-leetcode/tree/main/396-rotate-function) |
 | [415-add-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/415-add-strings) |
 | [509-fibonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/509-fibonacci-number) |
+| [628-maximum-product-of-three-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avishjhalani/solution-leetcode/tree/main/1248-count-number-of-nice-subarrays) |
@@ -806,6 +808,7 @@
 | [455-assign-cookies](https://github.com/avishjhalani/solution-leetcode/tree/main/455-assign-cookies) |
 | [561-array-partition](https://github.com/avishjhalani/solution-leetcode/tree/main/561-array-partition) |
 | [581-shortest-unsorted-continuous-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/581-shortest-unsorted-continuous-subarray) |
+| [628-maximum-product-of-three-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/628-maximum-product-of-three-numbers) |
 | [767-reorganize-string](https://github.com/avishjhalani/solution-leetcode/tree/main/767-reorganize-string) |
 | [977-squares-of-a-sorted-array](https://github.com/avishjhalani/solution-leetcode/tree/main/977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/avishjhalani/solution-leetcode/tree/main/1268-search-suggestions-system) |
