@@ -317,7 +317,8 @@
     "2081763319",
     "2082267420",
     "2082409833",
-    "2082410846"
+    "2082410846",
+    "2082477238"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3381,6 +3382,16 @@
         "Array",
         "Math",
         "Matrix"
+      ]
+    },
+    "spiral-matrix": {
+      "id": "54",
+      "title": "Spiral Matrix",
+      "folderName": "54-spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
       ]
     }
   }
