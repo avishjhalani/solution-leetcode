@@ -315,7 +315,8 @@
     "2080624136",
     "2081144968",
     "2081763319",
-    "2082267420"
+    "2082267420",
+    "2082409833"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3369,6 +3370,16 @@
         "Array",
         "Math",
         "Sorting"
+      ]
+    },
+    "rotate-image": {
+      "id": "48",
+      "title": "Rotate Image",
+      "folderName": "48-rotate-image",
+      "topics": [
+        "Array",
+        "Math",
+        "Matrix"
       ]
     }
   }
