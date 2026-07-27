@@ -114,6 +114,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avishjhalani/solution-leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/avishjhalani/solution-leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/avishjhalani/solution-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -551,6 +552,7 @@
 | [703-kth-largest-element-in-a-stream](https://github.com/avishjhalani/solution-leetcode/tree/main/703-kth-largest-element-in-a-stream) |
 | [767-reorganize-string](https://github.com/avishjhalani/solution-leetcode/tree/main/767-reorganize-string) |
 | [1268-search-suggestions-system](https://github.com/avishjhalani/solution-leetcode/tree/main/1268-search-suggestions-system) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/avishjhalani/solution-leetcode/tree/main/2336-smallest-number-in-infinite-set) |
 | [2402-meeting-rooms-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
@@ -821,6 +823,7 @@
 | [1288-remove-covered-intervals](https://github.com/avishjhalani/solution-leetcode/tree/main/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/avishjhalani/solution-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/avishjhalani/solution-leetcode/tree/main/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/avishjhalani/solution-leetcode/tree/main/2300-successful-pairs-of-spells-and-potions) |
