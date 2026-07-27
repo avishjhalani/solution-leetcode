@@ -2,18 +2,14 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         int n = nums.size();
-        int ans =0;
-        // for(int i:nums){
-        //     if(i==k) ans++;
-        // }
-        for(int i=0;i<n;i++ ){
-            int temp =0;
-            for(int j=i;j<n;j++){
-                temp +=nums[j];
-                if(temp == k){
-                    ans++;
-                }
-            }
+        unordered_map<int,int>mp;
+        mp[0]=1;
+        int preSum =0,ans =0;
+        for(int i =0;i<n;i++){
+            preSum +=nums[i];
+            int remove = preSum - k;
+            ans += mp[remove];
+            mp[preSum ] +=1;
         }
         return ans;
     }
