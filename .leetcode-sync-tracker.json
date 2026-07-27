@@ -318,7 +318,8 @@
     "2082267420",
     "2082409833",
     "2082410846",
-    "2082477238"
+    "2082477238",
+    "2082908034"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3392,6 +3393,16 @@
         "Array",
         "Matrix",
         "Simulation"
+      ]
+    },
+    "maximum-product-of-two-elements-in-an-array": {
+      "id": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "folderName": "1464-maximum-product-of-two-elements-in-an-array",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
       ]
     }
   }
