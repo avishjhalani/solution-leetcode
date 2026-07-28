@@ -321,7 +321,8 @@
     "2082477238",
     "2082908034",
     "2083562539",
-    "2083752247"
+    "2083752247",
+    "2084429992"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3405,6 +3406,16 @@
         "Array",
         "Sorting",
         "Heap (Priority Queue)"
+      ]
+    },
+    "smallest-palindromic-rearrangement-i": {
+      "id": "3517",
+      "title": "Smallest Palindromic Rearrangement I",
+      "folderName": "3517-smallest-palindromic-rearrangement-i",
+      "topics": [
+        "String",
+        "Sorting",
+        "Counting Sort"
       ]
     }
   }
