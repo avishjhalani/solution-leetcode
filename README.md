@@ -315,6 +315,7 @@
 | ------- |
 | [274-h-index](https://github.com/avishjhalani/solution-leetcode/tree/main/274-h-index) |
 | [561-array-partition](https://github.com/avishjhalani/solution-leetcode/tree/main/561-array-partition) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -829,6 +830,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/avishjhalani/solution-leetcode/tree/main/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs) |
@@ -927,6 +929,7 @@
 | [3163-string-compression-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3803-count-residue-prefixes](https://github.com/avishjhalani/solution-leetcode/tree/main/3803-count-residue-prefixes) |
 | [3853-merge-close-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/3853-merge-close-characters) |
