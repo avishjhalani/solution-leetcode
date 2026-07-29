@@ -291,6 +291,7 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/avishjhalani/solution-leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/avishjhalani/solution-leetcode/tree/main/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Counting
@@ -308,6 +309,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1781-sum-of-beauty-of-all-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/avishjhalani/solution-leetcode/tree/main/3852-smallest-pair-with-different-frequencies) |
 ## Counting Sort
@@ -538,6 +540,7 @@
 | [2402-meeting-rooms-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/2402-meeting-rooms-iii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3803-count-residue-prefixes](https://github.com/avishjhalani/solution-leetcode/tree/main/3803-count-residue-prefixes) |
@@ -627,6 +630,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/avishjhalani/solution-leetcode/tree/main/3516-find-closest-person) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/avishjhalani/solution-leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avishjhalani/solution-leetcode/tree/main/3658-gcd-of-odd-and-even-sums) |
@@ -930,6 +934,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3803-count-residue-prefixes](https://github.com/avishjhalani/solution-leetcode/tree/main/3803-count-residue-prefixes) |
 | [3853-merge-close-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/3853-merge-close-characters) |
