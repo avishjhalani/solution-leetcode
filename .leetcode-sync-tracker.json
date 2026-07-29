@@ -326,7 +326,8 @@
     "2084434134",
     "2085021728",
     "2085027437",
-    "2085766967"
+    "2085766967",
+    "2086562829"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3420,6 +3421,18 @@
         "String",
         "Sorting",
         "Counting Sort"
+      ]
+    },
+    "smallest-palindromic-rearrangement-ii": {
+      "id": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "folderName": "3518-smallest-palindromic-rearrangement-ii",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String",
+        "Combinatorics",
+        "Counting"
       ]
     }
   }
