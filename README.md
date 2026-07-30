@@ -308,6 +308,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/avishjhalani/solution-leetcode/tree/main/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1781-sum-of-beauty-of-all-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
@@ -489,6 +490,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1903-largest-odd-number-in-string) |
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3576-transform-array-to-all-equal-elements) |
 ## Hash Table
@@ -540,6 +542,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/2402-meeting-rooms-iii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i) |
@@ -836,6 +839,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/avishjhalani/solution-leetcode/tree/main/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/3536-maximum-product-of-two-digits) |
@@ -933,6 +937,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3163-string-compression-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
