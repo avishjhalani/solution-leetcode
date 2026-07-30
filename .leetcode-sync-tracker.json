@@ -327,7 +327,8 @@
     "2085021728",
     "2085027437",
     "2085766967",
-    "2086562829"
+    "2086562829",
+    "2087193305"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3433,6 +3434,16 @@
         "String",
         "Combinatorics",
         "Counting"
+      ]
+    },
+    "minimum-number-of-pushes-to-type-word-i": {
+      "id": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "folderName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "topics": [
+        "Math",
+        "String",
+        "Greedy"
       ]
     }
   }
