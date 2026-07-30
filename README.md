@@ -488,6 +488,7 @@
 | [1328-break-a-palindrome](https://github.com/avishjhalani/solution-leetcode/tree/main/1328-break-a-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1903-largest-odd-number-in-string) |
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3576-transform-array-to-all-equal-elements) |
 ## Hash Table
@@ -625,6 +626,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/avishjhalani/solution-leetcode/tree/main/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avishjhalani/solution-leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3513-number-of-unique-xor-triplets-i) |
@@ -930,6 +932,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/avishjhalani/solution-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3163-string-compression-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
