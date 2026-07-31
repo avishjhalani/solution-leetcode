@@ -15,6 +15,10 @@ public:
                 if(nums[j][0]<=end){
                     end = max(end, nums[j][1]);
                 }
+                else{
+                   break ;
+                }
+                
             }
             ans.push_back({start,end});
         }
