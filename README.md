@@ -28,6 +28,7 @@
 | [53-maximum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/53-maximum-subarray) |
 | [54-spiral-matrix](https://github.com/avishjhalani/solution-leetcode/tree/main/54-spiral-matrix) |
 | [55-jump-game](https://github.com/avishjhalani/solution-leetcode/tree/main/55-jump-game) |
+| [56-merge-intervals](https://github.com/avishjhalani/solution-leetcode/tree/main/56-merge-intervals) |
 | [73-set-matrix-zeroes](https://github.com/avishjhalani/solution-leetcode/tree/main/73-set-matrix-zeroes) |
 | [75-sort-colors](https://github.com/avishjhalani/solution-leetcode/tree/main/75-sort-colors) |
 | [78-subsets](https://github.com/avishjhalani/solution-leetcode/tree/main/78-subsets) |
@@ -809,6 +810,7 @@
 | [15-3sum](https://github.com/avishjhalani/solution-leetcode/tree/main/15-3sum) |
 | [16-3sum-closest](https://github.com/avishjhalani/solution-leetcode/tree/main/16-3sum-closest) |
 | [18-4sum](https://github.com/avishjhalani/solution-leetcode/tree/main/18-4sum) |
+| [56-merge-intervals](https://github.com/avishjhalani/solution-leetcode/tree/main/56-merge-intervals) |
 | [75-sort-colors](https://github.com/avishjhalani/solution-leetcode/tree/main/75-sort-colors) |
 | [88-merge-sorted-array](https://github.com/avishjhalani/solution-leetcode/tree/main/88-merge-sorted-array) |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
