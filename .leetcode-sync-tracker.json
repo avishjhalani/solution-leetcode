@@ -337,7 +337,8 @@
     "2088391843",
     "2088690978",
     "2088919230",
-    "2088922630"
+    "2088922630",
+    "2088980123"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3465,6 +3466,15 @@
         "Greedy",
         "Sorting",
         "Counting"
+      ]
+    },
+    "merge-intervals": {
+      "id": "56",
+      "title": "Merge Intervals",
+      "folderName": "56-merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
       ]
     }
   }
