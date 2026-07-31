@@ -5,8 +5,9 @@ public:
         int m = nums[0].size();
         vector<vector<int>>ans;
         sort(nums.begin(),nums.end());
+        ans.push_back(nums[0]);
         for(int i =0;i<n;i++){
-            if(ans.empty() || ans.back()[1]<nums[i][0]){
+            if(ans.back()[1]<nums[i][0]){
                 ans.push_back(nums[i]);
             }
             else{
