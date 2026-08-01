@@ -722,6 +722,7 @@
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/avishjhalani/solution-leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/avishjhalani/solution-leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/avishjhalani/solution-leetcode/tree/main/3994-minimum-adjacent-swaps-to-partition-array) |
+| [101110-minimum-initial-strength-to-defeat-all-monsters](https://github.com/avishjhalani/solution-leetcode/tree/main/101110-minimum-initial-strength-to-defeat-all-monsters) |
 | [101126-count-valid-prefixes](https://github.com/avishjhalani/solution-leetcode/tree/main/101126-count-valid-prefixes) |
 ## Prefix Sum
 |  |
