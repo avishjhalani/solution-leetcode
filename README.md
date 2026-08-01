@@ -77,6 +77,7 @@
 | [455-assign-cookies](https://github.com/avishjhalani/solution-leetcode/tree/main/455-assign-cookies) |
 | [457-circular-array-loop](https://github.com/avishjhalani/solution-leetcode/tree/main/457-circular-array-loop) |
 | [485-max-consecutive-ones](https://github.com/avishjhalani/solution-leetcode/tree/main/485-max-consecutive-ones) |
+| [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
 | [496-next-greater-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/503-next-greater-element-ii) |
 | [540-single-element-in-a-sorted-array](https://github.com/avishjhalani/solution-leetcode/tree/main/540-single-element-in-a-sorted-array) |
@@ -427,6 +428,7 @@
 | [396-rotate-function](https://github.com/avishjhalani/solution-leetcode/tree/main/396-rotate-function) |
 | [403-frog-jump](https://github.com/avishjhalani/solution-leetcode/tree/main/403-frog-jump) |
 | [435-non-overlapping-intervals](https://github.com/avishjhalani/solution-leetcode/tree/main/435-non-overlapping-intervals) |
+| [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
 | [509-fibonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/509-fibonacci-number) |
 | [746-min-cost-climbing-stairs](https://github.com/avishjhalani/solution-leetcode/tree/main/746-min-cost-climbing-stairs) |
 | [790-domino-and-tromino-tiling](https://github.com/avishjhalani/solution-leetcode/tree/main/790-domino-and-tromino-tiling) |
@@ -447,6 +449,10 @@
 | [1291-sequential-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
 ## Geometry
 |  |
 | ------- |
@@ -619,6 +625,7 @@
 | [380-insert-delete-getrandom-o1](https://github.com/avishjhalani/solution-leetcode/tree/main/380-insert-delete-getrandom-o1) |
 | [396-rotate-function](https://github.com/avishjhalani/solution-leetcode/tree/main/396-rotate-function) |
 | [415-add-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/415-add-strings) |
+| [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
 | [509-fibonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/509-fibonacci-number) |
 | [628-maximum-product-of-three-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1071-greatest-common-divisor-of-strings) |
@@ -757,6 +764,7 @@
 | [206-reverse-linked-list](https://github.com/avishjhalani/solution-leetcode/tree/main/206-reverse-linked-list) |
 | [234-palindrome-linked-list](https://github.com/avishjhalani/solution-leetcode/tree/main/234-palindrome-linked-list) |
 | [394-decode-string](https://github.com/avishjhalani/solution-leetcode/tree/main/394-decode-string) |
+| [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
 | [509-fibonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/509-fibonacci-number) |
 ## Segment Tree
 |  |
