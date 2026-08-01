@@ -348,7 +348,8 @@
     "2090086369",
     "2090141658",
     "2090148172",
-    "2090160195"
+    "2090160195",
+    "2090217100"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3503,6 +3504,12 @@
       "id": "101126",
       "title": "Count Valid Prefixes",
       "folderName": "101126-count-valid-prefixes",
+      "topics": []
+    },
+    "minimum-initial-strength-to-defeat-all-monsters": {
+      "id": "101110",
+      "title": "Minimum Initial Strength to Defeat All Monsters",
+      "folderName": "101110-minimum-initial-strength-to-defeat-all-monsters",
       "topics": []
     }
   }
