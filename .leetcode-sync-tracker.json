@@ -342,7 +342,8 @@
     "2088981095",
     "2088990464",
     "2088991538",
-    "2088992280"
+    "2088992280",
+    "2090079759"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3479,6 +3480,18 @@
       "topics": [
         "Array",
         "Sorting"
+      ]
+    },
+    "predict-the-winner": {
+      "id": "486",
+      "title": "Predict the Winner",
+      "folderName": "486-predict-the-winner",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Game Theory"
       ]
     }
   }
