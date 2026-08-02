@@ -349,7 +349,8 @@
     "2090141658",
     "2090148172",
     "2090160195",
-    "2090217100"
+    "2090217100",
+    "2091594988"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3511,6 +3512,17 @@
       "title": "Minimum Initial Strength to Defeat All Monsters",
       "folderName": "101110-minimum-initial-strength-to-defeat-all-monsters",
       "topics": []
+    },
+    "stone-game": {
+      "id": "877",
+      "title": "Stone Game",
+      "folderName": "877-stone-game",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Game Theory"
+      ]
     }
   }
 }
