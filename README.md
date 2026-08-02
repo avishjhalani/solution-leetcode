@@ -97,6 +97,7 @@
 | [746-min-cost-climbing-stairs](https://github.com/avishjhalani/solution-leetcode/tree/main/746-min-cost-climbing-stairs) |
 | [860-lemonade-change](https://github.com/avishjhalani/solution-leetcode/tree/main/860-lemonade-change) |
 | [875-koko-eating-bananas](https://github.com/avishjhalani/solution-leetcode/tree/main/875-koko-eating-bananas) |
+| [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
 | [904-fruit-into-baskets](https://github.com/avishjhalani/solution-leetcode/tree/main/904-fruit-into-baskets) |
 | [907-sum-of-subarray-minimums](https://github.com/avishjhalani/solution-leetcode/tree/main/907-sum-of-subarray-minimums) |
 | [930-binary-subarrays-with-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/930-binary-subarrays-with-sum) |
@@ -433,6 +434,7 @@
 | [746-min-cost-climbing-stairs](https://github.com/avishjhalani/solution-leetcode/tree/main/746-min-cost-climbing-stairs) |
 | [790-domino-and-tromino-tiling](https://github.com/avishjhalani/solution-leetcode/tree/main/790-domino-and-tromino-tiling) |
 | [838-push-dominoes](https://github.com/avishjhalani/solution-leetcode/tree/main/838-push-dominoes) |
+| [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
 | [907-sum-of-subarray-minimums](https://github.com/avishjhalani/solution-leetcode/tree/main/907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/avishjhalani/solution-leetcode/tree/main/1301-number-of-paths-with-max-score) |
@@ -453,6 +455,7 @@
 |  |
 | ------- |
 | [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
+| [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
 ## Geometry
 |  |
 | ------- |
@@ -628,6 +631,7 @@
 | [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
 | [509-fibonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/509-fibonacci-number) |
 | [628-maximum-product-of-three-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/628-maximum-product-of-three-numbers) |
+| [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avishjhalani/solution-leetcode/tree/main/1248-count-number-of-nice-subarrays) |
