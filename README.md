@@ -116,6 +116,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/avishjhalani/solution-leetcode/tree/main/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1394-find-lucky-integer-in-an-array) |
+| [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avishjhalani/solution-leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1470-shuffle-the-array) |
@@ -439,6 +440,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/avishjhalani/solution-leetcode/tree/main/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/avishjhalani/solution-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/avishjhalani/solution-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avishjhalani/solution-leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
@@ -456,6 +458,7 @@
 | ------- |
 | [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
 | [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
+| [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 ## Geometry
 |  |
 | ------- |
@@ -637,6 +640,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/avishjhalani/solution-leetcode/tree/main/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avishjhalani/solution-leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/avishjhalani/solution-leetcode/tree/main/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/avishjhalani/solution-leetcode/tree/main/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/avishjhalani/solution-leetcode/tree/main/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1903-largest-odd-number-in-string) |
