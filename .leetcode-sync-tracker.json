@@ -353,7 +353,8 @@
     "2091594988",
     "2091742884",
     "2091755697",
-    "2092344522"
+    "2092344522",
+    "2092459044"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3535,7 +3536,9 @@
         "Array",
         "Math",
         "Dynamic Programming",
-        "Game Theory"
+        "Minimax",
+        "Game Theory",
+        "Zero-Sum Game"
       ]
     }
   }
