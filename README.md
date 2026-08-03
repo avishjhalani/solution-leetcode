@@ -691,6 +691,10 @@
 | ------- |
 | [23-merge-k-sorted-lists](https://github.com/avishjhalani/solution-leetcode/tree/main/23-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1078,4 +1082,8 @@
 | [2685-count-the-number-of-complete-components](https://github.com/avishjhalani/solution-leetcode/tree/main/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
