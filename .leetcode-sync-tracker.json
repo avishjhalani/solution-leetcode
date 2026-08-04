@@ -354,7 +354,8 @@
     "2091742884",
     "2091755697",
     "2092344522",
-    "2092459044"
+    "2092459044",
+    "2093632973"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3539,6 +3540,16 @@
         "Minimax",
         "Game Theory",
         "Zero-Sum Game"
+      ]
+    },
+    "find-missing-elements": {
+      "id": "3731",
+      "title": "Find Missing Elements",
+      "folderName": "3731-find-missing-elements",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
       ]
     }
   }
