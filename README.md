@@ -156,6 +156,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/avishjhalani/solution-leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-inverse-coin-change](https://github.com/avishjhalani/solution-leetcode/tree/main/3592-inverse-coin-change) |
 | [3620-network-recovery-pathways](https://github.com/avishjhalani/solution-leetcode/tree/main/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/avishjhalani/solution-leetcode/tree/main/3852-smallest-pair-with-different-frequencies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs) |
@@ -559,6 +560,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3803-count-residue-prefixes](https://github.com/avishjhalani/solution-leetcode/tree/main/3803-count-residue-prefixes) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/avishjhalani/solution-leetcode/tree/main/3852-smallest-pair-with-different-frequencies) |
@@ -867,6 +869,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
