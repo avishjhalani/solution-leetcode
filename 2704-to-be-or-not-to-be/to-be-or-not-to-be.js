@@ -2,18 +2,21 @@
  * @param {string} val
  * @return {Object}
  */
-var expect = function(val) {
+var expect = function (val) {
     return {
-        toBe: function(otherVal) {
-            if (val === otherVal) return true;
-            else throw new Error("Not Equal");
-        },
-        notToBe: function(otherVal) {
-            if (val !== otherVal) return true;
-            else throw new Error("Equal");
-        }
+        toBe: function (otherval) {
+            if (val === otherval) {
+                return true;
+            }
+        else throw new Error("Not Equal");
+    },
+    notToBe: function(otherval) {
+        if (otherval !== val) return true;
+        else throw new Error("Equal");
+    }
     };
 };
+
 
 /**
  * expect(5).toBe(5); // true
