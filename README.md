@@ -78,6 +78,7 @@
 | [457-circular-array-loop](https://github.com/avishjhalani/solution-leetcode/tree/main/457-circular-array-loop) |
 | [485-max-consecutive-ones](https://github.com/avishjhalani/solution-leetcode/tree/main/485-max-consecutive-ones) |
 | [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
+| [493-reverse-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/493-reverse-pairs) |
 | [496-next-greater-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/503-next-greater-element-ii) |
 | [540-single-element-in-a-sorted-array](https://github.com/avishjhalani/solution-leetcode/tree/main/540-single-element-in-a-sorted-array) |
@@ -177,6 +178,10 @@
 | [79-word-search](https://github.com/avishjhalani/solution-leetcode/tree/main/79-word-search) |
 | [90-subsets-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/90-subsets-ii) |
 | [216-combination-sum-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/216-combination-sum-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [493-reverse-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +198,7 @@
 | [287-find-the-duplicate-number](https://github.com/avishjhalani/solution-leetcode/tree/main/287-find-the-duplicate-number) |
 | [349-intersection-of-two-arrays](https://github.com/avishjhalani/solution-leetcode/tree/main/349-intersection-of-two-arrays) |
 | [374-guess-number-higher-or-lower](https://github.com/avishjhalani/solution-leetcode/tree/main/374-guess-number-higher-or-lower) |
+| [493-reverse-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/493-reverse-pairs) |
 | [540-single-element-in-a-sorted-array](https://github.com/avishjhalani/solution-leetcode/tree/main/540-single-element-in-a-sorted-array) |
 | [704-binary-search](https://github.com/avishjhalani/solution-leetcode/tree/main/704-binary-search) |
 | [713-subarray-product-less-than-k](https://github.com/avishjhalani/solution-leetcode/tree/main/713-subarray-product-less-than-k) |
@@ -402,6 +408,7 @@
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
 | [215-kth-largest-element-in-an-array](https://github.com/avishjhalani/solution-leetcode/tree/main/215-kth-largest-element-in-an-array) |
 | [347-top-k-frequent-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/347-top-k-frequent-elements) |
+| [493-reverse-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/avishjhalani/solution-leetcode/tree/main/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Dynamic Programming
@@ -692,6 +699,7 @@
 |  |
 | ------- |
 | [23-merge-k-sorted-lists](https://github.com/avishjhalani/solution-leetcode/tree/main/23-merge-k-sorted-lists) |
+| [493-reverse-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
 ## Minimax
 |  |
@@ -722,6 +730,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [493-reverse-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/493-reverse-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/avishjhalani/solution-leetcode/tree/main/2336-smallest-number-in-infinite-set) |
 ## Other
 |  |
@@ -785,6 +794,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [493-reverse-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/493-reverse-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3737-count-subarrays-with-majority-element-i) |
 ## Shortest Path
@@ -987,6 +997,10 @@
 | ------- |
 | [207-course-schedule](https://github.com/avishjhalani/solution-leetcode/tree/main/207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/avishjhalani/solution-leetcode/tree/main/3620-network-recovery-pathways) |
+## Treap
+|  |
+| ------- |
+| [493-reverse-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/493-reverse-pairs) |
 ## Tree
 |  |
 | ------- |
