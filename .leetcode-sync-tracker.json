@@ -366,7 +366,8 @@
     "2093833539",
     "2094525782",
     "2095063207",
-    "2095063727"
+    "2095063727",
+    "2095480192"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3576,6 +3577,16 @@
         "Merge Sort",
         "Ordered Set",
         "Treap"
+      ]
+    },
+    "remove-methods-from-project": {
+      "id": "3310",
+      "title": "Remove Methods From Project",
+      "folderName": "3310-remove-methods-from-project",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
       ]
     }
   }
