@@ -293,6 +293,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/avishjhalani/solution-leetcode/tree/main/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/avishjhalani/solution-leetcode/tree/main/3310-remove-methods-from-project) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -388,6 +389,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/avishjhalani/solution-leetcode/tree/main/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/avishjhalani/solution-leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/avishjhalani/solution-leetcode/tree/main/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/avishjhalani/solution-leetcode/tree/main/3310-remove-methods-from-project) |
 ## Design
 |  |
 | ------- |
@@ -479,6 +481,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/avishjhalani/solution-leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/avishjhalani/solution-leetcode/tree/main/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/avishjhalani/solution-leetcode/tree/main/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i) |
