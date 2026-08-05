@@ -1,62 +1,48 @@
 class Solution {
 public:
-    vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
-        //O(V+E), V = nodes , E = edges
-        //graph - adjacency list
-        vector<vector<int>> adj(n); //u -> {ngbr1, ngbr2} //O(V+E)
-        vector<int> inDegree(n, 0); //O(V)
-        vector<bool> suspicious(n, false);//O(V)
-
-        for(auto &edge : invocations) {
-            int u = edge[0];
-            int v = edge[1];
+    vector<int> remainingMethods(int n, int k, vector<vector<int>>& nums) {
+        vector<vector<int>>adj(n);
+        vector<bool>sus(n,false);
+        vector<int>indegree(n,0);
+        for(auto & i:nums){
+            int u =i[0];
+            int v =i[1];
             adj[u].push_back(v);
-            inDegree[v]++;
+            indegree[v]++;
         }
-
-        //BFS
-        queue<int> que;
+        queue<int>que;
         que.push(k);
-        suspicious[k] = true;
-
-        while(!que.empty()) {
-            int curr = que.front();
+        sus[k]=true;
+        while(!que.empty()){
+            int cur =que.front();
             que.pop();
-
-            for(int &ngbr : adj[curr]) {
-                inDegree[ngbr]--;
-                if(!suspicious[ngbr]) {
-                    que.push(ngbr);
-                    suspicious[ngbr] = true;
+            for(int &ng : adj[cur]){
+                indegree[ng]--;
+                if(!sus[ng]){
+                    que.push(ng);
+                    sus[ng] = true;
                 }
             }
         }
-
-        vector<int> result;
-        bool cannotRemove = false;
-        
-        for(int i = 0; i < n; i++) {
-            if(suspicious[i] && inDegree[i] > 0) {
-                cannotRemove = true;
+        vector<int>ans;
+        bool check =false;
+        for(int i =0;i<n;i++){
+            if(sus[i] && indegree[i]>0){
+                check =true;
                 break;
             }
-
-            if(!suspicious[i]) {
-                result.push_back(i);
+            if(!sus[i]){
+                ans.push_back(i);
             }
-
         }
-
-        if(cannotRemove) {
-            vector<int> vec(n); //0, 1, 2,... n-1
-            for(int i = 0; i < n; i++) {
-                vec[i] = i;
+        if(check){
+            vector<int>arr(n);
+            for(int i =0;i<n;i++){
+                arr[i]=i;
             }
-            return vec;
+            return arr;
         }
-        
-        return result;
-
+        return ans;
 
     }
 };
