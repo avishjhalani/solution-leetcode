@@ -364,7 +364,8 @@
     "2093824805",
     "2093825814",
     "2093833539",
-    "2094525782"
+    "2094525782",
+    "2095063207"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3559,6 +3560,21 @@
         "Array",
         "Hash Table",
         "Sorting"
+      ]
+    },
+    "reverse-pairs": {
+      "id": "493",
+      "title": "Reverse Pairs",
+      "folderName": "493-reverse-pairs",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Merge Sort",
+        "Ordered Set",
+        "Treap"
       ]
     }
   }
