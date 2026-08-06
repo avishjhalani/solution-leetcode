@@ -378,7 +378,8 @@
     "2096494890",
     "2096501590",
     "2096502480",
-    "2096503121"
+    "2096503121",
+    "2096508233"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3619,6 +3620,12 @@
       "id": "2634",
       "title": "Filter Elements from Array",
       "folderName": "2634-filter-elements-from-array",
+      "topics": []
+    },
+    "array-reduce-transformation": {
+      "id": "2626",
+      "title": "Array Reduce Transformation",
+      "folderName": "2626-array-reduce-transformation",
       "topics": []
     }
   }
