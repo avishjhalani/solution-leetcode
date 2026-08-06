@@ -373,7 +373,8 @@
     "2095674774",
     "2095675886",
     "2095698828",
-    "2096269288"
+    "2096269288",
+    "2096493610"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3603,6 +3604,12 @@
         "Math",
         "Enumeration"
       ]
+    },
+    "apply-transform-over-each-element-in-array": {
+      "id": "2635",
+      "title": "Apply Transform Over Each Element in Array",
+      "folderName": "2635-apply-transform-over-each-element-in-array",
+      "topics": []
     }
   }
 }
