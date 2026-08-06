@@ -461,6 +461,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii) |
 ## Game Theory
@@ -660,6 +661,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avishjhalani/solution-leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/avishjhalani/solution-leetcode/tree/main/3516-find-closest-person) |
