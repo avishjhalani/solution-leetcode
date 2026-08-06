@@ -375,7 +375,8 @@
     "2095698828",
     "2096269288",
     "2096493610",
-    "2096494890"
+    "2096494890",
+    "2096501590"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3610,6 +3611,12 @@
       "id": "2635",
       "title": "Apply Transform Over Each Element in Array",
       "folderName": "2635-apply-transform-over-each-element-in-array",
+      "topics": []
+    },
+    "filter-elements-from-array": {
+      "id": "2634",
+      "title": "Filter Elements from Array",
+      "folderName": "2634-filter-elements-from-array",
       "topics": []
     }
   }
