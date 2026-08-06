@@ -741,6 +741,7 @@
 |  |
 | ------- |
 | [2620-counter](https://github.com/avishjhalani/solution-leetcode/tree/main/2620-counter) |
+| [2626-array-reduce-transformation](https://github.com/avishjhalani/solution-leetcode/tree/main/2626-array-reduce-transformation) |
 | [2634-filter-elements-from-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2634-filter-elements-from-array) |
 | [2635-apply-transform-over-each-element-in-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2635-apply-transform-over-each-element-in-array) |
 | [2665-counter-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/2665-counter-ii) |
