@@ -372,7 +372,8 @@
     "2095546738",
     "2095674774",
     "2095675886",
-    "2095698828"
+    "2095698828",
+    "2096269288"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3592,6 +3593,15 @@
         "Depth-First Search",
         "Breadth-First Search",
         "Graph Theory"
+      ]
+    },
+    "smallest-divisible-digit-product-i": {
+      "id": "3345",
+      "title": "Smallest Divisible Digit Product I",
+      "folderName": "3345-smallest-divisible-digit-product-i",
+      "topics": [
+        "Math",
+        "Enumeration"
       ]
     }
   }
