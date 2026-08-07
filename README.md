@@ -178,6 +178,7 @@
 | [79-word-search](https://github.com/avishjhalani/solution-leetcode/tree/main/79-word-search) |
 | [90-subsets-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/90-subsets-ii) |
 | [216-combination-sum-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/216-combination-sum-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -516,6 +517,7 @@
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3576-transform-array-to-all-equal-elements) |
 ## Hash Table
@@ -662,6 +664,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avishjhalani/solution-leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/avishjhalani/solution-leetcode/tree/main/3516-find-closest-person) |
@@ -729,6 +732,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avishjhalani/solution-leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avishjhalani/solution-leetcode/tree/main/3658-gcd-of-odd-and-even-sums) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/avishjhalani/solution-leetcode/tree/main/3855-sum-of-k-digit-numbers-in-a-range) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs) |
@@ -985,6 +989,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3163-string-compression-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3163-string-compression-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i) |
