@@ -380,7 +380,8 @@
     "2096502480",
     "2096503121",
     "2096508233",
-    "2096509586"
+    "2096509586",
+    "2097581228"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3627,6 +3628,12 @@
       "id": "2626",
       "title": "Array Reduce Transformation",
       "folderName": "2626-array-reduce-transformation",
+      "topics": []
+    },
+    "function-composition": {
+      "id": "2629",
+      "title": "Function Composition",
+      "folderName": "2629-function-composition",
       "topics": []
     }
   }
