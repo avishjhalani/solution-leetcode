@@ -381,7 +381,8 @@
     "2096503121",
     "2096508233",
     "2096509586",
-    "2097581228"
+    "2097581228",
+    "2098146316"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3635,6 +3636,18 @@
       "title": "Function Composition",
       "folderName": "2629-function-composition",
       "topics": []
+    },
+    "smallest-divisible-digit-product-ii": {
+      "id": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "folderName": "3348-smallest-divisible-digit-product-ii",
+      "topics": [
+        "Math",
+        "String",
+        "Backtracking",
+        "Greedy",
+        "Number Theory"
+      ]
     }
   }
 }
