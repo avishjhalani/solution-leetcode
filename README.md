@@ -453,6 +453,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/avishjhalani/solution-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/avishjhalani/solution-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avishjhalani/solution-leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avishjhalani/solution-leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3592-inverse-coin-change](https://github.com/avishjhalani/solution-leetcode/tree/main/3592-inverse-coin-change) |
@@ -517,6 +518,7 @@
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avishjhalani/solution-leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3576-transform-array-to-all-equal-elements) |
@@ -989,6 +991,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3163-string-compression-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3163-string-compression-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avishjhalani/solution-leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3501-maximize-active-section-with-trade-ii) |
@@ -1100,6 +1103,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/avishjhalani/solution-leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avishjhalani/solution-leetcode/tree/main/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/avishjhalani/solution-leetcode/tree/main/2300-successful-pairs-of-spells-and-potions) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avishjhalani/solution-leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/avishjhalani/solution-leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end) |
