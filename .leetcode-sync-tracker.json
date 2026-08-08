@@ -382,7 +382,8 @@
     "2096508233",
     "2096509586",
     "2097581228",
-    "2098146316"
+    "2098146316",
+    "2099357230"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3647,6 +3648,17 @@
         "Backtracking",
         "Greedy",
         "Number Theory"
+      ]
+    },
+    "find-the-lexicographically-smallest-valid-sequence": {
+      "id": "3302",
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "folderName": "3302-find-the-lexicographically-smallest-valid-sequence",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Greedy"
       ]
     }
   }
