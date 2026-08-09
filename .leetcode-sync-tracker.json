@@ -385,7 +385,8 @@
     "2098146316",
     "2099357230",
     "2099461758",
-    "2099473377"
+    "2099473377",
+    "2100671929"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3661,6 +3662,20 @@
         "String",
         "Dynamic Programming",
         "Greedy"
+      ]
+    },
+    "stone-game-ii": {
+      "id": "1140",
+      "title": "Stone Game II",
+      "folderName": "1140-stone-game-ii",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Minimax",
+        "Prefix Sum",
+        "Game Theory",
+        "Zero-Sum Game"
       ]
     }
   }
