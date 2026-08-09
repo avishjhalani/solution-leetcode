@@ -108,6 +108,7 @@
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/avishjhalani/solution-leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/avishjhalani/solution-leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/1128-number-of-equivalent-domino-pairs) |
+| [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/avishjhalani/solution-leetcode/tree/main/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avishjhalani/solution-leetcode/tree/main/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/1260-shift-2d-grid) |
@@ -449,6 +450,7 @@
 | [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
 | [907-sum-of-subarray-minimums](https://github.com/avishjhalani/solution-leetcode/tree/main/907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/avishjhalani/solution-leetcode/tree/main/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/avishjhalani/solution-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
@@ -471,6 +473,7 @@
 | ------- |
 | [486-predict-the-winner](https://github.com/avishjhalani/solution-leetcode/tree/main/486-predict-the-winner) |
 | [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 ## Geometry
 |  |
@@ -654,6 +657,7 @@
 | [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/avishjhalani/solution-leetcode/tree/main/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avishjhalani/solution-leetcode/tree/main/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avishjhalani/solution-leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/avishjhalani/solution-leetcode/tree/main/1344-angle-between-hands-of-a-clock) |
@@ -714,6 +718,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 ## Monotonic Stack
 |  |
@@ -772,6 +777,7 @@
 | [724-find-pivot-index](https://github.com/avishjhalani/solution-leetcode/tree/main/724-find-pivot-index) |
 | [930-binary-subarrays-with-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avishjhalani/solution-leetcode/tree/main/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/avishjhalani/solution-leetcode/tree/main/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avishjhalani/solution-leetcode/tree/main/3312-sorted-gcd-pair-queries) |
@@ -1120,5 +1126,6 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
