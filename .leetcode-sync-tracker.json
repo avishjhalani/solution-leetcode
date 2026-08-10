@@ -387,7 +387,8 @@
     "2099461758",
     "2099473377",
     "2100671929",
-    "2100682618"
+    "2100682618",
+    "2101929905"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3676,6 +3677,20 @@
         "Minimax",
         "Prefix Sum",
         "Game Theory",
+        "Zero-Sum Game"
+      ]
+    },
+    "stone-game-iv": {
+      "id": "1510",
+      "title": "Stone Game IV",
+      "folderName": "1510-stone-game-iv",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Minimax",
+        "Game Theory",
+        "Nim Game",
+        "Sprague–Grundy Theorem",
         "Zero-Sum Game"
       ]
     }
