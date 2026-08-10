@@ -455,6 +455,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/avishjhalani/solution-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/avishjhalani/solution-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avishjhalani/solution-leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avishjhalani/solution-leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii) |
@@ -475,6 +476,7 @@
 | [877-stone-game](https://github.com/avishjhalani/solution-leetcode/tree/main/877-stone-game) |
 | [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
 ## Geometry
 |  |
 | ------- |
@@ -663,6 +665,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/avishjhalani/solution-leetcode/tree/main/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/avishjhalani/solution-leetcode/tree/main/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
 | [1688-count-of-matches-in-tournament](https://github.com/avishjhalani/solution-leetcode/tree/main/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avishjhalani/solution-leetcode/tree/main/1979-find-greatest-common-divisor-of-array) |
@@ -720,6 +723,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -732,6 +736,10 @@
 | [901-online-stock-span](https://github.com/avishjhalani/solution-leetcode/tree/main/901-online-stock-span) |
 | [907-sum-of-subarray-minimums](https://github.com/avishjhalani/solution-leetcode/tree/main/907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
 ## Number Theory
 |  |
 | ------- |
@@ -902,6 +910,10 @@
 | [3536-maximum-product-of-two-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -1128,4 +1140,5 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
