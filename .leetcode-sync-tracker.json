@@ -389,7 +389,8 @@
     "2100671929",
     "2100682618",
     "2101929905",
-    "2101946859"
+    "2101946859",
+    "2102500668"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3691,8 +3692,18 @@
         "Minimax",
         "Game Theory",
         "Nim Game",
-        "Sprague–Grundy Theorem",
+        "SpragueâGrundy Theorem",
         "Zero-Sum Game"
+      ]
+    },
+    "smallest-missing-integer-greater-than-sequential-prefix-sum": {
+      "id": "2996",
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "folderName": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
       ]
     }
   }
