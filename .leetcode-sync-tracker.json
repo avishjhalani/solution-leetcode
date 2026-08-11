@@ -390,7 +390,8 @@
     "2100682618",
     "2101929905",
     "2101946859",
-    "2102500668"
+    "2102500668",
+    "2102500810"
   ],
   "problems": {
     "1-bit-and-2-bit-characters": {
@@ -3692,7 +3693,7 @@
         "Minimax",
         "Game Theory",
         "Nim Game",
-        "SpragueâGrundy Theorem",
+        "SpragueÃ¢ÂÂGrundy Theorem",
         "Zero-Sum Game"
       ]
     },
