@@ -3,7 +3,7 @@ function missingInteger(nums: number[]): number {
     const st:Set<number>=new Set(nums);
     let sum =nums[0];
     for(let i=1;i<n;i++){
-        if(nums[i]==nums[i-1]+1){
+        if(nums[i]===nums[i-1]+1){
             sum+=nums[i];
         }
         else{
