@@ -913,7 +913,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
