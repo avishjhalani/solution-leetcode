@@ -142,6 +142,7 @@
 | [2402-meeting-rooms-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/avishjhalani/solution-leetcode/tree/main/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/3005-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid) |
@@ -576,6 +577,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/avishjhalani/solution-leetcode/tree/main/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/2402-meeting-rooms-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -869,6 +871,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avishjhalani/solution-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/avishjhalani/solution-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avishjhalani/solution-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -913,7 +916,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avishjhalani/solution-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/avishjhalani/solution-leetcode/tree/main/1510-stone-game-iv) |
