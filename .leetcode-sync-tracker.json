@@ -1,6 +1,7 @@
 {
   "synced_submission_ids": [
-    "2109969426"
+    "2109969426",
+    "2111297506"
   ],
   "problems": {
     "stone-game-v": {
@@ -12,6 +13,15 @@
         "Math",
         "Dynamic Programming",
         "Game Theory"
+      ]
+    },
+    "find-the-largest-almost-missing-integer": {
+      "id": "3471",
+      "title": "Find the Largest Almost Missing Integer",
+      "folderName": "3471-find-the-largest-almost-missing-integer",
+      "topics": [
+        "Array",
+        "Hash Table"
       ]
     }
   }
