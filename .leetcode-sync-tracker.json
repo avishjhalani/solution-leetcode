@@ -1,7 +1,8 @@
 {
   "synced_submission_ids": [
     "2109969426",
-    "2111297506"
+    "2111297506",
+    "2112950135"
   ],
   "problems": {
     "stone-game-v": {
@@ -22,6 +23,17 @@
       "topics": [
         "Array",
         "Hash Table"
+      ]
+    },
+    "cinema-seat-allocation": {
+      "id": "1386",
+      "title": "Cinema Seat Allocation",
+      "folderName": "1386-cinema-seat-allocation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Bit Manipulation"
       ]
     }
   }
