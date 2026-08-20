@@ -5,7 +5,8 @@
     "2112950135",
     "2112954355",
     "2112954570",
-    "2112962025"
+    "2112962025",
+    "2113818077"
   ],
   "problems": {
     "stone-game-v": {
@@ -37,6 +38,15 @@
         "Hash Table",
         "Greedy",
         "Bit Manipulation"
+      ]
+    },
+    "distribute-elements-into-two-arrays-i": {
+      "id": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "folderName": "3069-distribute-elements-into-two-arrays-i",
+      "topics": [
+        "Array",
+        "Simulation"
       ]
     }
   }
