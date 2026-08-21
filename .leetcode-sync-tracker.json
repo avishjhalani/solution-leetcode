@@ -6,7 +6,8 @@
     "2112954355",
     "2112954570",
     "2112962025",
-    "2113818077"
+    "2113818077",
+    "2115190064"
   ],
   "problems": {
     "stone-game-v": {
@@ -47,6 +48,19 @@
       "topics": [
         "Array",
         "Simulation"
+      ]
+    },
+    "kth-smallest-amount-with-single-denomination-combination": {
+      "id": "3116",
+      "title": "Kth Smallest Amount With Single Denomination Combination",
+      "folderName": "3116-kth-smallest-amount-with-single-denomination-combination",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Combinatorics",
+        "Number Theory"
       ]
     }
   }
