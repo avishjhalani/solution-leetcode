@@ -7,7 +7,8 @@
     "2112954570",
     "2112962025",
     "2113818077",
-    "2115190064"
+    "2115190064",
+    "2115841339"
   ],
   "problems": {
     "stone-game-v": {
@@ -61,6 +62,14 @@
         "Bit Manipulation",
         "Combinatorics",
         "Number Theory"
+      ]
+    },
+    "check-divisibility-by-digit-sum-and-product": {
+      "id": "3622",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "folderName": "3622-check-divisibility-by-digit-sum-and-product",
+      "topics": [
+        "Math"
       ]
     }
   }
