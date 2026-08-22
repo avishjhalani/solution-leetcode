@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
+        int x =n;
         int sum =0;
         int prod =1;
-        int n1 =n;
+        int temp;
         while(n>0){
-            int temp = n%10;
+            temp =n%10;
             sum+=temp;
             prod*=temp;
             n=n/10;
         }
-        int div =sum+prod;
-        if(n1%div==0)return true;
+        if(x%(sum+prod)==0)return true;
         return false;
     }
 };
