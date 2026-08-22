@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avishjhalani/solution-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/avishjhalani/solution-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
