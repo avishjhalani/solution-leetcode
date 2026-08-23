@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avishjhalani/solution-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/avishjhalani/solution-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
 <!---LeetCode Topics End-->
