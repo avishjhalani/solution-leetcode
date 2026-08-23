@@ -9,7 +9,8 @@
     "2113818077",
     "2115190064",
     "2115841339",
-    "2115843578"
+    "2115843578",
+    "2117623159"
   ],
   "problems": {
     "stone-game-v": {
@@ -71,6 +72,17 @@
       "folderName": "3622-check-divisibility-by-digit-sum-and-product",
       "topics": [
         "Math"
+      ]
+    },
+    "sum-game": {
+      "id": "1927",
+      "title": "Sum Game",
+      "folderName": "1927-sum-game",
+      "topics": [
+        "Math",
+        "String",
+        "Greedy",
+        "Game Theory"
       ]
     }
   }
