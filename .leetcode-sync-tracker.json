@@ -13,7 +13,8 @@
     "2117623159",
     "2117623777",
     "2117624848",
-    "2117625056"
+    "2117625056",
+    "2118652065"
   ],
   "problems": {
     "stone-game-v": {
@@ -86,6 +87,20 @@
         "String",
         "Greedy",
         "Game Theory"
+      ]
+    },
+    "stone-game-viii": {
+      "id": "1872",
+      "title": "Stone Game VIII",
+      "folderName": "1872-stone-game-viii",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Minimax",
+        "Prefix Sum",
+        "Game Theory",
+        "Zero-Sum Game"
       ]
     }
   }
