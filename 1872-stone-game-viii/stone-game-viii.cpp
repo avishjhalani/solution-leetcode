@@ -10,9 +10,7 @@ public:
         vector<int> t(n, 0);
         t[n - 1] = prefixSum[n - 1];
         for (int i = n - 2; i >= 1; i--) {
-            int take = prefixSum[i] - t[i + 1];
-            int skip = t[i + 1];
-            t[i] = max(take, skip);
+            t[i] = max(prefixSum[i] - t[i + 1], t[i + 1]);
         }
         return t[1];
     }
