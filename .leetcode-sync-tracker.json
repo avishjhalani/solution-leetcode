@@ -16,7 +16,8 @@
     "2117625056",
     "2118652065",
     "2118653553",
-    "2118654289"
+    "2118654289",
+    "2119880124"
   ],
   "problems": {
     "stone-game-v": {
@@ -103,6 +104,15 @@
         "Prefix Sum",
         "Game Theory",
         "Zero-Sum Game"
+      ]
+    },
+    "smallest-missing-multiple-of-k": {
+      "id": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "folderName": "3718-smallest-missing-multiple-of-k",
+      "topics": [
+        "Array",
+        "Hash Table"
       ]
     }
   }
