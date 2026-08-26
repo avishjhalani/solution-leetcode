@@ -73,10 +73,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## String
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Zero-Sum Game
 |  |
 | ------- |
