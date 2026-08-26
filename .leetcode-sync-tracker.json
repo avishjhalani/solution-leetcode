@@ -17,7 +17,8 @@
     "2118652065",
     "2118653553",
     "2118654289",
-    "2119880124"
+    "2119880124",
+    "2120566689"
   ],
   "problems": {
     "stone-game-v": {
@@ -113,6 +114,15 @@
       "topics": [
         "Array",
         "Hash Table"
+      ]
+    },
+    "shortest-and-lexicographically-smallest-beautiful-string": {
+      "id": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "folderName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "topics": [
+        "String",
+        "Sliding Window"
       ]
     }
   }
