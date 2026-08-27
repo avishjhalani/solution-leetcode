@@ -19,7 +19,8 @@
     "2118654289",
     "2119880124",
     "2120566689",
-    "2120582037"
+    "2120582037",
+    "2122188526"
   ],
   "problems": {
     "stone-game-v": {
@@ -124,6 +125,18 @@
       "topics": [
         "String",
         "Sliding Window"
+      ]
+    },
+    "lexicographically-smallest-permutation-greater-than-target": {
+      "id": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "folderName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Counting",
+        "Enumeration"
       ]
     }
   }
