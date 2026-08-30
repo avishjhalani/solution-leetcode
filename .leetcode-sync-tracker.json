@@ -22,7 +22,8 @@
     "2120582037",
     "2122188526",
     "2122189085",
-    "2123042458"
+    "2123042458",
+    "2124796430"
   ],
   "problems": {
     "stone-game-v": {
@@ -149,6 +150,15 @@
         "Two Pointers",
         "String",
         "Enumeration"
+      ]
+    },
+    "removing-minimum-and-maximum-from-array": {
+      "id": "2091",
+      "title": "Removing Minimum and Maximum From Array",
+      "folderName": "2091-removing-minimum-and-maximum-from-array",
+      "topics": [
+        "Array",
+        "Greedy"
       ]
     }
   }
