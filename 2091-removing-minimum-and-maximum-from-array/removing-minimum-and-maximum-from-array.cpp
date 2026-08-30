@@ -18,14 +18,10 @@ public:
         }
         if (minidx > maxidx)
             swap(minidx, maxidx);
-
-        // 1. Delete both from the left
         int left = maxidx + 1;
 
-        // 2. Delete both from the right
         int right = n - minidx;
 
-        // 3. Delete min from left and max from right
         int both = (minidx + 1) + (n - maxidx);
 
         return min({left, right, both});
