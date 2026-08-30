@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/avishjhalani/solution-leetcode/tree/main/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avishjhalani/solution-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avishjhalani/solution-leetcode/tree/main/3471-find-the-largest-almost-missing-integer) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/avishjhalani/solution-leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
