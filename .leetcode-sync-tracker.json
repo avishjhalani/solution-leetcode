@@ -25,7 +25,8 @@
     "2123042458",
     "2124796430",
     "2124798767",
-    "2125998779"
+    "2125998779",
+    "2126217720"
   ],
   "problems": {
     "stone-game-v": {
@@ -169,6 +170,15 @@
       "folderName": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
       "topics": [
         "Linked List"
+      ]
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "id": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "folderName": "153-find-minimum-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
       ]
     }
   }
