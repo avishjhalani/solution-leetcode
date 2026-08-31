@@ -24,7 +24,8 @@
     "2122189085",
     "2123042458",
     "2124796430",
-    "2124798767"
+    "2124798767",
+    "2125998779"
   ],
   "problems": {
     "stone-game-v": {
@@ -160,6 +161,14 @@
       "topics": [
         "Array",
         "Greedy"
+      ]
+    },
+    "find-the-minimum-and-maximum-number-of-nodes-between-critical-points": {
+      "id": "2058",
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "folderName": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "topics": [
+        "Linked List"
       ]
     }
   }
