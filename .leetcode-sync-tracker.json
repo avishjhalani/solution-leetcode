@@ -26,7 +26,8 @@
     "2124796430",
     "2124798767",
     "2125998779",
-    "2126217720"
+    "2126217720",
+    "2127536834"
   ],
   "problems": {
     "stone-game-v": {
@@ -179,6 +180,18 @@
       "topics": [
         "Array",
         "Binary Search"
+      ]
+    },
+    "minimum-moves-to-clean-the-classroom": {
+      "id": "3568",
+      "title": "Minimum Moves to Clean the Classroom",
+      "folderName": "3568-minimum-moves-to-clean-the-classroom",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation",
+        "Breadth-First Search",
+        "Matrix"
       ]
     }
   }
