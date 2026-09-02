@@ -27,7 +27,8 @@
     "2124798767",
     "2125998779",
     "2126217720",
-    "2127536834"
+    "2127536834",
+    "2128210806"
   ],
   "problems": {
     "stone-game-v": {
@@ -192,6 +193,15 @@
         "Bit Manipulation",
         "Breadth-First Search",
         "Matrix"
+      ]
+    },
+    "construct-uniform-parity-array-i": {
+      "id": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "folderName": "3875-construct-uniform-parity-array-i",
+      "topics": [
+        "Array",
+        "Math"
       ]
     }
   }
