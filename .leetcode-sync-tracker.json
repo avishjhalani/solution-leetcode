@@ -28,7 +28,8 @@
     "2125998779",
     "2126217720",
     "2127536834",
-    "2128210806"
+    "2128210806",
+    "2129341867"
   ],
   "problems": {
     "stone-game-v": {
@@ -199,6 +200,15 @@
       "id": "3875",
       "title": "Construct Uniform Parity Array I",
       "folderName": "3875-construct-uniform-parity-array-i",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    },
+    "construct-uniform-parity-array-ii": {
+      "id": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "folderName": "3876-construct-uniform-parity-array-ii",
       "topics": [
         "Array",
         "Math"
