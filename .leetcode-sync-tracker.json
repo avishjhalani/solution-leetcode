@@ -30,7 +30,8 @@
     "2127536834",
     "2128210806",
     "2129341867",
-    "2129342196"
+    "2129342196",
+    "2130425600"
   ],
   "problems": {
     "stone-game-v": {
@@ -213,6 +214,15 @@
       "topics": [
         "Array",
         "Math"
+      ]
+    },
+    "smallest-stable-index-i": {
+      "id": "3903",
+      "title": "Smallest Stable Index I",
+      "folderName": "3903-smallest-stable-index-i",
+      "topics": [
+        "Array",
+        "Prefix Sum"
       ]
     }
   }
