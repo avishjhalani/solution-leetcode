@@ -44,7 +44,8 @@
     "2140884468",
     "2141717616",
     "2142918897",
-    "2143909990"
+    "2143909990",
+    "2145020672"
   ],
   "problems": {
     "stone-game-v": {
@@ -351,6 +352,18 @@
         "Dynamic Programming",
         "Combinatorics",
         "Prefix Sum"
+      ]
+    },
+    "find-two-non-overlapping-sub-arrays-each-with-target-sum": {
+      "id": "1477",
+      "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+      "folderName": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sliding Window"
       ]
     }
   }
