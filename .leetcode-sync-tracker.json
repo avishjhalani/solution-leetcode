@@ -32,7 +32,19 @@
     "2129341867",
     "2129342196",
     "2130425600",
-    "2130426303"
+    "2130426303",
+    "2131486716",
+    "2132697041",
+    "2134084526",
+    "2134699237",
+    "2135881549",
+    "2137790107",
+    "2138799984",
+    "2139867635",
+    "2140884468",
+    "2141717616",
+    "2142918897",
+    "2143909990"
   ],
   "problems": {
     "stone-game-v": {
@@ -223,6 +235,121 @@
       "folderName": "3903-smallest-stable-index-i",
       "topics": [
         "Array",
+        "Prefix Sum"
+      ]
+    },
+    "smallest-stable-index-ii": {
+      "id": "3904",
+      "title": "Smallest Stable Index II",
+      "folderName": "3904-smallest-stable-index-ii",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
+    },
+    "distinct-subsequences": {
+      "id": "115",
+      "title": "Distinct Subsequences",
+      "folderName": "115-distinct-subsequences",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    "distinct-subsequences-ii": {
+      "id": "940",
+      "title": "Distinct Subsequences II",
+      "folderName": "940-distinct-subsequences-ii",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    "count-commas-in-range": {
+      "id": "3870",
+      "title": "Count Commas in Range",
+      "folderName": "3870-count-commas-in-range",
+      "topics": [
+        "Math"
+      ]
+    },
+    "count-commas-in-range-ii": {
+      "id": "3871",
+      "title": "Count Commas in Range II",
+      "folderName": "3871-count-commas-in-range-ii",
+      "topics": [
+        "Math"
+      ]
+    },
+    "count-nodes-equal-to-average-of-subtree": {
+      "id": "2265",
+      "title": "Count Nodes Equal to Average of Subtree",
+      "folderName": "2265-count-nodes-equal-to-average-of-subtree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "unique-3-digit-even-numbers": {
+      "id": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "folderName": "3483-unique-3-digit-even-numbers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Recursion",
+        "Enumeration"
+      ]
+    },
+    "maximum-score-of-non-overlapping-intervals": {
+      "id": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "folderName": "3414-maximum-score-of-non-overlapping-intervals",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ]
+    },
+    "image-overlap": {
+      "id": "835",
+      "title": "Image Overlap",
+      "folderName": "835-image-overlap",
+      "topics": [
+        "Array",
+        "Matrix"
+      ]
+    },
+    "rectangle-overlap": {
+      "id": "836",
+      "title": "Rectangle Overlap",
+      "folderName": "836-rectangle-overlap",
+      "topics": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    "maximum-number-of-non-overlapping-palindrome-substrings": {
+      "id": "2472",
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "folderName": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    "number-of-sets-of-k-non-overlapping-line-segments": {
+      "id": "1621",
+      "title": "Number of Sets of K Non-Overlapping Line Segments",
+      "folderName": "1621-number-of-sets-of-k-non-overlapping-line-segments",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics",
         "Prefix Sum"
       ]
     }
