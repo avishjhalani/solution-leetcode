@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avishjhalani/solution-leetcode/tree/main/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
@@ -158,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/avishjhalani/solution-leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
 | [115-distinct-subsequences](https://github.com/avishjhalani/solution-leetcode/tree/main/115-distinct-subsequences) |
 | [940-distinct-subsequences-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string) |
