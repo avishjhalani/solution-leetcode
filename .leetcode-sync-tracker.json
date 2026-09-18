@@ -45,7 +45,8 @@
     "2141717616",
     "2142918897",
     "2143909990",
-    "2145020672"
+    "2145020672",
+    "2146033927"
   ],
   "problems": {
     "stone-game-v": {
@@ -364,6 +365,17 @@
         "Binary Search",
         "Dynamic Programming",
         "Sliding Window"
+      ]
+    },
+    "maximum-number-of-non-overlapping-substrings": {
+      "id": "1520",
+      "title": "Maximum Number of Non-Overlapping Substrings",
+      "folderName": "1520-maximum-number-of-non-overlapping-substrings",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting"
       ]
     }
   }
