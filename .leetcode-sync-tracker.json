@@ -46,7 +46,8 @@
     "2142918897",
     "2143909990",
     "2145020672",
-    "2146033927"
+    "2146033927",
+    "2146900117"
   ],
   "problems": {
     "stone-game-v": {
@@ -376,6 +377,15 @@
         "String",
         "Greedy",
         "Sorting"
+      ]
+    },
+    "circle-and-rectangle-overlapping": {
+      "id": "1401",
+      "title": "Circle and Rectangle Overlapping",
+      "folderName": "1401-circle-and-rectangle-overlapping",
+      "topics": [
+        "Math",
+        "Geometry"
       ]
     }
   }
