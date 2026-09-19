@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [836-rectangle-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/avishjhalani/solution-leetcode/tree/main/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [836-rectangle-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/avishjhalani/solution-leetcode/tree/main/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/avishjhalani/solution-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/avishjhalani/solution-leetcode/tree/main/1872-stone-game-viii) |
