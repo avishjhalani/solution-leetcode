@@ -47,7 +47,8 @@
     "2143909990",
     "2145020672",
     "2146033927",
-    "2146900117"
+    "2146900117",
+    "2147407956"
   ],
   "problems": {
     "stone-game-v": {
@@ -386,6 +387,15 @@
       "topics": [
         "Math",
         "Geometry"
+      ]
+    },
+    "reverse-degree-of-a-string": {
+      "id": "3498",
+      "title": "Reverse Degree of a String",
+      "folderName": "3498-reverse-degree-of-a-string",
+      "topics": [
+        "String",
+        "Simulation"
       ]
     }
   }
