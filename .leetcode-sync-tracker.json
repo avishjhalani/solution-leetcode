@@ -50,7 +50,8 @@
     "2146900117",
     "2147407956",
     "2147412822",
-    "2148838930"
+    "2148838930",
+    "2149995366"
   ],
   "problems": {
     "stone-game-v": {
@@ -408,6 +409,16 @@
         "Array",
         "Math",
         "Dynamic Programming"
+      ]
+    },
+    "find-x-value-of-array-ii": {
+      "id": "3525",
+      "title": "Find X Value of Array II",
+      "folderName": "3525-find-x-value-of-array-ii",
+      "topics": [
+        "Array",
+        "Math",
+        "Segment Tree"
       ]
     }
   }
