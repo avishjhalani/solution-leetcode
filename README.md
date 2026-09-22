@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avishjhalani/solution-leetcode/tree/main/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3875-construct-uniform-parity-array-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avishjhalani/solution-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/avishjhalani/solution-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/avishjhalani/solution-leetcode/tree/main/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3871-count-commas-in-range-ii) |
@@ -153,6 +155,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/3483-unique-3-digit-even-numbers) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3525-find-x-value-of-array-ii) |
 ## Simulation
 |  |
 | ------- |
