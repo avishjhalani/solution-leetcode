@@ -49,7 +49,8 @@
     "2146033927",
     "2146900117",
     "2147407956",
-    "2147412822"
+    "2147412822",
+    "2148838930"
   ],
   "problems": {
     "stone-game-v": {
@@ -397,6 +398,16 @@
       "topics": [
         "String",
         "Simulation"
+      ]
+    },
+    "find-x-value-of-array-i": {
+      "id": "3524",
+      "title": "Find X Value of Array I",
+      "folderName": "3524-find-x-value-of-array-i",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming"
       ]
     }
   }
