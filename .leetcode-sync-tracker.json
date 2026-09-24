@@ -52,7 +52,8 @@
     "2147412822",
     "2148838930",
     "2149995366",
-    "2150525334"
+    "2150525334",
+    "2151725371"
   ],
   "problems": {
     "stone-game-v": {
@@ -432,6 +433,15 @@
         "Binary Search",
         "Sliding Window",
         "Prefix Sum"
+      ]
+    },
+    "smallest-index-with-digit-sum-equal-to-index": {
+      "id": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "folderName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "topics": [
+        "Array",
+        "Math"
       ]
     }
   }
