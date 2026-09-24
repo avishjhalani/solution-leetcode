@@ -1,18 +1,21 @@
 class Solution {
 public:
-int sum(int i){
-    int sum =0;
-    while(i>0){
-        int temp = i%10;
-        sum +=temp;
-        i =i/10;
-    }
-    return sum;
-}
     int smallestIndex(vector<int>& nums) {
-        for(int i =0;i<nums.size();i++){
-            if(sum(nums[i])==i) return i;
+        vector<int>ans;
+        for(int i = 0; i<nums.size(); ++i)
+        {
+            int res = 0;
+            while(nums[i]>0){
+                res+=(nums[i]%10);
+                nums[i]/=10;
+            }
+            if(res==i)
+            ans.push_back(i);
         }
+        sort(ans.begin(),ans.end());
+        if(ans.empty())
         return -1;
+        else
+        return ans[0];
     }
 };
