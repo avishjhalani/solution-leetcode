@@ -55,7 +55,8 @@
     "2150525334",
     "2151725371",
     "2151725906",
-    "2153228204"
+    "2153228204",
+    "2154233077"
   ],
   "problems": {
     "stone-game-v": {
@@ -457,6 +458,16 @@
         "Stack",
         "Breadth-First Search",
         "Sorting"
+      ]
+    },
+    "evaluate-the-bracket-pairs-of-a-string": {
+      "id": "1807",
+      "title": "Evaluate the Bracket Pairs of a String",
+      "folderName": "1807-evaluate-the-bracket-pairs-of-a-string",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
       ]
     }
   }
