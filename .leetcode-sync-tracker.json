@@ -54,7 +54,8 @@
     "2149995366",
     "2150525334",
     "2151725371",
-    "2151725906"
+    "2151725906",
+    "2153228204"
   ],
   "problems": {
     "stone-game-v": {
@@ -443,6 +444,19 @@
       "topics": [
         "Array",
         "Math"
+      ]
+    },
+    "brace-expansion-ii": {
+      "id": "1096",
+      "title": "Brace Expansion II",
+      "folderName": "1096-brace-expansion-ii",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking",
+        "Stack",
+        "Breadth-First Search",
+        "Sorting"
       ]
     }
   }
