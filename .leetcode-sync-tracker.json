@@ -56,7 +56,8 @@
     "2151725371",
     "2151725906",
     "2153228204",
-    "2154233077"
+    "2154233077",
+    "2154747851"
   ],
   "problems": {
     "stone-game-v": {
@@ -468,6 +469,16 @@
         "Array",
         "Hash Table",
         "String"
+      ]
+    },
+    "reverse-substrings-between-each-pair-of-parentheses": {
+      "id": "1190",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "folderName": "1190-reverse-substrings-between-each-pair-of-parentheses",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
       ]
     }
   }
