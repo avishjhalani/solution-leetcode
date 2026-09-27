@@ -52,6 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avishjhalani/solution-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -194,12 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String
 |  |
 | ------- |
 | [115-distinct-subsequences](https://github.com/avishjhalani/solution-leetcode/tree/main/115-distinct-subsequences) |
 | [940-distinct-subsequences-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
