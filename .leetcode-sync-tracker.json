@@ -60,7 +60,8 @@
     "2154747851",
     "2154748803",
     "2154749052",
-    "2155663630"
+    "2155663630",
+    "2156302891"
   ],
   "problems": {
     "stone-game-v": {
@@ -492,6 +493,17 @@
         "String",
         "Stack",
         "Bracket Sequences"
+      ]
+    },
+    "minimum-size-subarray-sum": {
+      "id": "209",
+      "title": "Minimum Size Subarray Sum",
+      "folderName": "209-minimum-size-subarray-sum",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
       ]
     }
   }
