@@ -59,7 +59,8 @@
     "2154233077",
     "2154747851",
     "2154748803",
-    "2154749052"
+    "2154749052",
+    "2155663630"
   ],
   "problems": {
     "stone-game-v": {
@@ -477,6 +478,16 @@
       "id": "1190",
       "title": "Reverse Substrings Between Each Pair of Parentheses",
       "folderName": "1190-reverse-substrings-between-each-pair-of-parentheses",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ]
+    },
+    "maximum-nesting-depth-of-the-parentheses": {
+      "id": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "folderName": "1614-maximum-nesting-depth-of-the-parentheses",
       "topics": [
         "String",
         "Stack",
