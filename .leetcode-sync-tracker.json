@@ -61,7 +61,8 @@
     "2154748803",
     "2154749052",
     "2155663630",
-    "2156302891"
+    "2156302891",
+    "2156806789"
   ],
   "problems": {
     "stone-game-v": {
@@ -504,6 +505,17 @@
         "Binary Search",
         "Sliding Window",
         "Prefix Sum"
+      ]
+    },
+    "check-if-there-is-a-valid-parentheses-string-path": {
+      "id": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "folderName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix",
+        "Bracket Sequences"
       ]
     }
   }
