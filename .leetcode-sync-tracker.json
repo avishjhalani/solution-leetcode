@@ -63,7 +63,8 @@
     "2155663630",
     "2156302891",
     "2156806789",
-    "2157185876"
+    "2157185876",
+    "2158046602"
   ],
   "problems": {
     "stone-game-v": {
@@ -516,6 +517,16 @@
         "Array",
         "Dynamic Programming",
         "Matrix",
+        "Bracket Sequences"
+      ]
+    },
+    "maximum-nesting-depth-of-two-valid-parentheses-strings": {
+      "id": "1111",
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "folderName": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "topics": [
+        "String",
+        "Stack",
         "Bracket Sequences"
       ]
     }
