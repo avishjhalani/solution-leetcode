@@ -69,7 +69,8 @@
     "2159093197",
     "2159903926",
     "2159904311",
-    "2159908429"
+    "2159908429",
+    "2161313426"
   ],
   "problems": {
     "stone-game-v": {
@@ -553,6 +554,17 @@
         "String",
         "Dynamic Programming",
         "Backtracking",
+        "Bracket Sequences"
+      ]
+    },
+    "longest-valid-parentheses": {
+      "id": "32",
+      "title": "Longest Valid Parentheses",
+      "folderName": "32-longest-valid-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack",
         "Bracket Sequences"
       ]
     }
