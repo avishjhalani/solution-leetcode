@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/avishjhalani/solution-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
@@ -119,6 +121,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [836-rectangle-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/avishjhalani/solution-leetcode/tree/main/1401-circle-and-rectangle-overlapping) |
+## Graph Theory
+|  |
+| ------- |
+| [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 ## Greedy
 |  |
 | ------- |
