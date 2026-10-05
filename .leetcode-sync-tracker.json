@@ -72,7 +72,8 @@
     "2159908429",
     "2161313426",
     "2162304859",
-    "2162744196"
+    "2162744196",
+    "2162757598"
   ],
   "problems": {
     "stone-game-v": {
@@ -590,6 +591,16 @@
         "String",
         "Stack",
         "Bracket Sequences"
+      ]
+    },
+    "keys-and-rooms": {
+      "id": "841",
+      "title": "Keys and Rooms",
+      "folderName": "841-keys-and-rooms",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
       ]
     }
   }
