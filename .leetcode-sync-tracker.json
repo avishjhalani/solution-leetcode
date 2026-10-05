@@ -71,7 +71,8 @@
     "2159904311",
     "2159908429",
     "2161313426",
-    "2162304859"
+    "2162304859",
+    "2162744196"
   ],
   "problems": {
     "stone-game-v": {
@@ -578,6 +579,16 @@
         "Dynamic Programming",
         "Stack",
         "Greedy",
+        "Bracket Sequences"
+      ]
+    },
+    "score-of-parentheses": {
+      "id": "856",
+      "title": "Score of Parentheses",
+      "folderName": "856-score-of-parentheses",
+      "topics": [
+        "String",
+        "Stack",
         "Bracket Sequences"
       ]
     }
