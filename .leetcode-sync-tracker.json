@@ -73,7 +73,8 @@
     "2161313426",
     "2162304859",
     "2162744196",
-    "2162757598"
+    "2162757598",
+    "2164553286"
   ],
   "problems": {
     "stone-game-v": {
@@ -601,6 +602,17 @@
         "Depth-First Search",
         "Breadth-First Search",
         "Graph Theory"
+      ]
+    },
+    "minimum-add-to-make-parentheses-valid": {
+      "id": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "folderName": "921-minimum-add-to-make-parentheses-valid",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Bracket Sequences"
       ]
     }
   }
