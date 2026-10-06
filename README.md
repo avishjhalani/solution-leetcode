@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [32-longest-valid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/32-longest-valid-parentheses) |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
 | [856-score-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/856-score-of-parentheses) |
+| [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
+| [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/avishjhalani/solution-leetcode/tree/main/1927-sum-game) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [32-longest-valid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/32-longest-valid-parentheses) |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
 | [856-score-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/856-score-of-parentheses) |
+| [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [115-distinct-subsequences](https://github.com/avishjhalani/solution-leetcode/tree/main/115-distinct-subsequences) |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
 | [856-score-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/856-score-of-parentheses) |
+| [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
 | [940-distinct-subsequences-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
