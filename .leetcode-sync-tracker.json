@@ -74,7 +74,8 @@
     "2162304859",
     "2162744196",
     "2162757598",
-    "2164553286"
+    "2164553286",
+    "2165451331"
   ],
   "problems": {
     "stone-game-v": {
@@ -613,6 +614,16 @@
         "Stack",
         "Greedy",
         "Bracket Sequences"
+      ]
+    },
+    "remove-invalid-parentheses": {
+      "id": "301",
+      "title": "Remove Invalid Parentheses",
+      "folderName": "301-remove-invalid-parentheses",
+      "topics": [
+        "String",
+        "Backtracking",
+        "Breadth-First Search"
       ]
     }
   }
