@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [22-generate-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/22-generate-parentheses) |
+| [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [22-generate-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/22-generate-parentheses) |
 | [32-longest-valid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/32-longest-valid-parentheses) |
 | [115-distinct-subsequences](https://github.com/avishjhalani/solution-leetcode/tree/main/115-distinct-subsequences) |
+| [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
 | [856-score-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/856-score-of-parentheses) |
 | [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
