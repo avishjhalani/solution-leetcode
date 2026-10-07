@@ -1,71 +1,35 @@
 class Solution {
-public:
-    unordered_set<string> st;
-    int n;
+    vector<string> ans;
 
-    void solve(int idx, int count, string &curr, string &s, int &maxlen) {
+    void dfs(string s, int start, int last, char open, char close){
+        int balance = 0;
 
-        if(count < 0)
-            return;
+        for(int i = start; i<s.size(); i++){
+            if(s[i] == open) balance++;
+            if(s[i] == close) balance--;
 
-        if(idx == n) {
+            if(balance >= 0) continue;
 
-            if(count == 0) {
-
-                if(curr.size() > maxlen) {
-                    st.clear();
-                    maxlen = curr.size();
-                }
-
-                if(curr.size() == maxlen) {
-                    st.insert(curr);
+            for(int j = last; j<=i; j++){
+                if(s[j] == close && (j==last || s[j-1] != close)){
+                    dfs(s.substr(0, j) + s.substr(j+1), i, j, open, close);
                 }
             }
 
             return;
         }
 
-        // Normal character
-        if(s[idx] != '(' && s[idx] != ')') {
+        reverse(s.begin(), s.end());
 
-            curr.push_back(s[idx]);
-
-            solve(idx + 1, count, curr, s, maxlen);
-
-            curr.pop_back();
-
-            return;
+        if(open=='('){
+            dfs(s, 0, 0, ')', '(');
+        }else{
+            ans.push_back(s);
         }
-
-        // Take the parenthesis
-        curr.push_back(s[idx]);
-
-        solve(
-            idx + 1,
-            count + (s[idx] == '(' ? 1 : -1),
-            curr,
-            s,
-            maxlen
-        );
-
-        curr.pop_back();
-
-        // Don't take the parenthesis
-        solve(idx + 1, count, curr, s, maxlen);
     }
-
+public:
     vector<string> removeInvalidParentheses(string s) {
-
-        n = s.size();
-
-        string curr = "";
-
-        int maxlen = 0;
-
-        solve(0, 0, curr, s, maxlen);
-
-        vector<string> ans(st.begin(), st.end());
-
+        dfs(s, 0, 0, '(', ')');
         return ans;
     }
 };
