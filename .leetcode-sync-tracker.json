@@ -76,7 +76,8 @@
     "2162757598",
     "2164553286",
     "2165451331",
-    "2165457500"
+    "2165457500",
+    "2165955034"
   ],
   "problems": {
     "stone-game-v": {
@@ -625,6 +626,16 @@
         "String",
         "Backtracking",
         "Breadth-First Search"
+      ]
+    },
+    "remove-outermost-parentheses": {
+      "id": "1021",
+      "title": "Remove Outermost Parentheses",
+      "folderName": "1021-remove-outermost-parentheses",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
       ]
     }
   }
