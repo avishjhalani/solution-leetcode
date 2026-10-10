@@ -78,7 +78,8 @@
     "2165451331",
     "2165457500",
     "2165955034",
-    "2167512308"
+    "2167512308",
+    "2168482597"
   ],
   "problems": {
     "stone-game-v": {
@@ -648,6 +649,18 @@
         "Stack",
         "Greedy",
         "Bracket Sequences"
+      ]
+    },
+    "minimum-sum-of-squared-difference": {
+      "id": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "folderName": "2333-minimum-sum-of-squared-difference",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
       ]
     }
   }
