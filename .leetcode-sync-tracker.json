@@ -80,7 +80,8 @@
     "2165955034",
     "2167512308",
     "2168482597",
-    "2169508631"
+    "2169508631",
+    "2170450170"
   ],
   "problems": {
     "stone-game-v": {
@@ -671,6 +672,17 @@
       "topics": [
         "Array",
         "Enumeration"
+      ]
+    },
+    "apply-operations-on-array-to-maximize-sum-of-squares": {
+      "id": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "folderName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Bit Manipulation"
       ]
     }
   }
