@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [22-generate-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/22-generate-parentheses) |
 | [32-longest-valid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/32-longest-valid-parentheses) |
+| [72-edit-distance](https://github.com/avishjhalani/solution-leetcode/tree/main/72-edit-distance) |
 | [115-distinct-subsequences](https://github.com/avishjhalani/solution-leetcode/tree/main/115-distinct-subsequences) |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
 | [940-distinct-subsequences-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/940-distinct-subsequences-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [20-valid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/20-valid-parentheses) |
 | [22-generate-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/22-generate-parentheses) |
 | [32-longest-valid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/32-longest-valid-parentheses) |
+| [72-edit-distance](https://github.com/avishjhalani/solution-leetcode/tree/main/72-edit-distance) |
 | [115-distinct-subsequences](https://github.com/avishjhalani/solution-leetcode/tree/main/115-distinct-subsequences) |
 | [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
