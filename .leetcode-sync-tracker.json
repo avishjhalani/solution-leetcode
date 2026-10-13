@@ -81,7 +81,8 @@
     "2167512308",
     "2168482597",
     "2169508631",
-    "2170450170"
+    "2170450170",
+    "2170832090"
   ],
   "problems": {
     "stone-game-v": {
@@ -683,6 +684,16 @@
         "Hash Table",
         "Greedy",
         "Bit Manipulation"
+      ]
+    },
+    "maximum-alternating-sum-of-squares": {
+      "id": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "folderName": "3727-maximum-alternating-sum-of-squares",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
       ]
     }
   }
