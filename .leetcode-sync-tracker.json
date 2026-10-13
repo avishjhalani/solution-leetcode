@@ -82,7 +82,8 @@
     "2168482597",
     "2169508631",
     "2170450170",
-    "2170832090"
+    "2170832090",
+    "2171168053"
   ],
   "problems": {
     "stone-game-v": {
@@ -694,6 +695,15 @@
         "Array",
         "Greedy",
         "Sorting"
+      ]
+    },
+    "edit-distance": {
+      "id": "72",
+      "title": "Edit Distance",
+      "folderName": "72-edit-distance",
+      "topics": [
+        "String",
+        "Dynamic Programming"
       ]
     }
   }
