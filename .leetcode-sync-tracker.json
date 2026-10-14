@@ -83,7 +83,8 @@
     "2169508631",
     "2170450170",
     "2170832090",
-    "2171168053"
+    "2171168053",
+    "2171881525"
   ],
   "problems": {
     "stone-game-v": {
@@ -704,6 +705,15 @@
       "topics": [
         "String",
         "Dynamic Programming"
+      ]
+    },
+    "maximize-sum-of-squares-of-digits": {
+      "id": "3723",
+      "title": "Maximize Sum of Squares of Digits",
+      "folderName": "3723-maximize-sum-of-squares-of-digits",
+      "topics": [
+        "Math",
+        "Greedy"
       ]
     }
   }
