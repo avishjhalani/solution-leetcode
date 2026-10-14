@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/avishjhalani/solution-leetcode/tree/main/153-find-minimum-in-rotated-sorted-array) |
 | [209-minimum-size-subarray-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/209-minimum-size-subarray-sum) |
+| [714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/avishjhalani/solution-leetcode/tree/main/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [835-image-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [72-edit-distance](https://github.com/avishjhalani/solution-leetcode/tree/main/72-edit-distance) |
 | [115-distinct-subsequences](https://github.com/avishjhalani/solution-leetcode/tree/main/115-distinct-subsequences) |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
+| [714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/avishjhalani/solution-leetcode/tree/main/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [940-distinct-subsequences-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
+| [714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/avishjhalani/solution-leetcode/tree/main/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
