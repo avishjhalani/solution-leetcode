@@ -86,7 +86,8 @@
     "2171168053",
     "2171881525",
     "2171947265",
-    "2171947387"
+    "2171947387",
+    "2172035935"
   ],
   "problems": {
     "stone-game-v": {
@@ -715,6 +716,16 @@
       "folderName": "3723-maximize-sum-of-squares-of-digits",
       "topics": [
         "Math",
+        "Greedy"
+      ]
+    },
+    "best-time-to-buy-and-sell-stock-with-transaction-fee": {
+      "id": "714",
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "folderName": "714-best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
         "Greedy"
       ]
     }
