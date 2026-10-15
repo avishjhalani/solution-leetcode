@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
 | [714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/avishjhalani/solution-leetcode/tree/main/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [940-distinct-subsequences-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/avishjhalani/solution-leetcode/tree/main/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/avishjhalani/solution-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -186,6 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avishjhalani/solution-leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/avishjhalani/solution-leetcode/tree/main/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -287,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avishjhalani/solution-leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/avishjhalani/solution-leetcode/tree/main/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
