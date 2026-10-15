@@ -87,7 +87,8 @@
     "2171881525",
     "2171947265",
     "2171947387",
-    "2172035935"
+    "2172035935",
+    "2172724259"
   ],
   "problems": {
     "stone-game-v": {
@@ -727,6 +728,17 @@
         "Array",
         "Dynamic Programming",
         "Greedy"
+      ]
+    },
+    "subarrays-distinct-element-sum-of-squares-i": {
+      "id": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "folderName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Indexed Tree",
+        "Segment Tree"
       ]
     }
   }
