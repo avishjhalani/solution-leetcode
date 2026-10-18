@@ -96,7 +96,8 @@
     "2173859821",
     "2174325878",
     "2174396749",
-    "2174396987"
+    "2174396987",
+    "2175535384"
   ],
   "problems": {
     "stone-game-v": {
@@ -778,6 +779,24 @@
         "Array",
         "Hash Table",
         "Sorting"
+      ]
+    },
+    "number-of-ways-to-reorder-array-to-get-same-bst": {
+      "id": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "folderName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "topics": [
+        "Array",
+        "Math",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Tree",
+        "Union-Find",
+        "Binary Search Tree",
+        "Memoization",
+        "Combinatorics",
+        "Binary Tree",
+        "Fermat's Little Theorem"
       ]
     }
   }
