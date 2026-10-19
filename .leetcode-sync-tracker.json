@@ -97,7 +97,8 @@
     "2174325878",
     "2174396749",
     "2174396987",
-    "2175535384"
+    "2175535384",
+    "2175881654"
   ],
   "problems": {
     "stone-game-v": {
@@ -797,6 +798,16 @@
         "Combinatorics",
         "Binary Tree",
         "Fermat's Little Theorem"
+      ]
+    },
+    "find-target-indices-after-sorting-array": {
+      "id": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "folderName": "2089-find-target-indices-after-sorting-array",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sorting"
       ]
     }
   }
