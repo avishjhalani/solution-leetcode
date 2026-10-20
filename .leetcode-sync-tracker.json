@@ -99,7 +99,8 @@
     "2174396987",
     "2175535384",
     "2175881654",
-    "2175884698"
+    "2175884698",
+    "2177327857"
   ],
   "problems": {
     "stone-game-v": {
@@ -809,6 +810,17 @@
         "Array",
         "Binary Search",
         "Sorting"
+      ]
+    },
+    "sum-of-sortable-integers": {
+      "id": "3886",
+      "title": "Sum of Sortable Integers",
+      "folderName": "3886-sum-of-sortable-integers",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting",
+        "Enumeration"
       ]
     }
   }
