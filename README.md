@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/avishjhalani/solution-leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/avishjhalani/solution-leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/3863-minimum-operations-to-sort-a-string) |
 ## Tree
 |  |
 | ------- |
