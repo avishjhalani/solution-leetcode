@@ -100,7 +100,8 @@
     "2175535384",
     "2175881654",
     "2175884698",
-    "2177327857"
+    "2177327857",
+    "2178114558"
   ],
   "problems": {
     "stone-game-v": {
@@ -821,6 +822,14 @@
         "Math",
         "Sorting",
         "Enumeration"
+      ]
+    },
+    "minimum-operations-to-sort-a-string": {
+      "id": "3863",
+      "title": "Minimum Operations to Sort a String",
+      "folderName": "3863-minimum-operations-to-sort-a-string",
+      "topics": [
+        "String"
       ]
     }
   }
