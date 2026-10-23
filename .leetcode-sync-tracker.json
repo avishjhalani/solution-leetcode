@@ -103,7 +103,8 @@
     "2177327857",
     "2178114558",
     "2179077931",
-    "2179079187"
+    "2179079187",
+    "2179793374"
   ],
   "problems": {
     "stone-game-v": {
@@ -840,6 +841,15 @@
       "folderName": "3942-minimum-operations-to-sort-a-permutation",
       "topics": [
         "Array"
+      ]
+    },
+    "maximum-k-to-sort-a-permutation": {
+      "id": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "folderName": "3644-maximum-k-to-sort-a-permutation",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
       ]
     }
   }
