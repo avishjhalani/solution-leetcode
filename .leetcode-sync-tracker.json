@@ -106,7 +106,8 @@
     "2179079187",
     "2179793374",
     "2179793574",
-    "2179803935"
+    "2179803935",
+    "2180281039"
   ],
   "problems": {
     "stone-game-v": {
@@ -852,6 +853,15 @@
       "topics": [
         "Array",
         "Bit Manipulation"
+      ]
+    },
+    "count-days-spent-together": {
+      "id": "2409",
+      "title": "Count Days Spent Together",
+      "folderName": "2409-count-days-spent-together",
+      "topics": [
+        "Math",
+        "String"
       ]
     }
   }
