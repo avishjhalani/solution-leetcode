@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avishjhalani/solution-leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/avishjhalani/solution-leetcode/tree/main/1872-stone-game-viii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/avishjhalani/solution-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avishjhalani/solution-leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/avishjhalani/solution-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [835-image-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/avishjhalani/solution-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avishjhalani/solution-leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
