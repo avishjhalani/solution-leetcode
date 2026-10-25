@@ -109,7 +109,8 @@
     "2179803935",
     "2180281039",
     "2180281309",
-    "2181498237"
+    "2181498237",
+    "2181540359"
   ],
   "problems": {
     "stone-game-v": {
@@ -875,6 +876,16 @@
         "Depth-First Search",
         "Breadth-First Search",
         "Union-Find",
+        "Matrix"
+      ]
+    },
+    "nearest-exit-from-entrance-in-maze": {
+      "id": "1926",
+      "title": "Nearest Exit from Entrance in Maze",
+      "folderName": "1926-nearest-exit-from-entrance-in-maze",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
         "Matrix"
       ]
     }
