@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [209-minimum-size-subarray-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/209-minimum-size-subarray-sum) |
 | [714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/avishjhalani/solution-leetcode/tree/main/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [835-image-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/avishjhalani/solution-leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/avishjhalani/solution-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [835-image-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avishjhalani/solution-leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avishjhalani/solution-leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Zero-Sum Game
 |  |
