@@ -108,7 +108,8 @@
     "2179793574",
     "2179803935",
     "2180281039",
-    "2180281309"
+    "2180281309",
+    "2181498237"
   ],
   "problems": {
     "stone-game-v": {
@@ -863,6 +864,18 @@
       "topics": [
         "Math",
         "String"
+      ]
+    },
+    "number-of-closed-islands": {
+      "id": "1254",
+      "title": "Number of Closed Islands",
+      "folderName": "1254-number-of-closed-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
       ]
     }
   }
