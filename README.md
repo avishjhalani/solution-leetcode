@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avishjhalani/solution-leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/avishjhalani/solution-leetcode/tree/main/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avishjhalani/solution-leetcode/tree/main/3727-maximum-alternating-sum-of-squares) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/avishjhalani/solution-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/avishjhalani/solution-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/avishjhalani/solution-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avishjhalani/solution-leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avishjhalani/solution-leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 ## Zero-Sum Game
 |  |
 | ------- |
