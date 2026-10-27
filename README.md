@@ -270,6 +270,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avishjhalani/solution-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Other
+|  |
+| ------- |
+| [3963-create-grid-with-exactly-one-path](https://github.com/avishjhalani/solution-leetcode/tree/main/3963-create-grid-with-exactly-one-path) |
 ## Prefix Sum
 |  |
 | ------- |
