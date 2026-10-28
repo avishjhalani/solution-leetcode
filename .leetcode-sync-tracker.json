@@ -113,7 +113,8 @@
     "2181540359",
     "2181540979",
     "2182476942",
-    "2183313118"
+    "2183313118",
+    "2184076245"
   ],
   "problems": {
     "stone-game-v": {
@@ -909,6 +910,17 @@
       "title": "Create Grid With Exactly One Path",
       "folderName": "3963-create-grid-with-exactly-one-path",
       "topics": []
+    },
+    "minimum-xor-path-in-a-grid": {
+      "id": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "folderName": "3882-minimum-xor-path-in-a-grid",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Matrix"
+      ]
     }
   }
 }
