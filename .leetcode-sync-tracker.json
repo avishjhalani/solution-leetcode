@@ -115,7 +115,8 @@
     "2182476942",
     "2183313118",
     "2184076245",
-    "2185317436"
+    "2185317436",
+    "2185318145"
   ],
   "problems": {
     "stone-game-v": {
@@ -936,6 +937,17 @@
         "Depth-First Search",
         "Binary Indexed Tree",
         "Segment Tree"
+      ]
+    },
+    "shortest-path-with-at-most-k-consecutive-identical-characters": {
+      "id": "3970",
+      "title": "Shortest Path With At Most K Consecutive Identical Characters",
+      "folderName": "3970-shortest-path-with-at-most-k-consecutive-identical-characters",
+      "topics": [
+        "String",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Shortest Path"
       ]
     }
   }
