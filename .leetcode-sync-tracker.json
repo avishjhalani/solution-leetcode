@@ -114,7 +114,8 @@
     "2181540979",
     "2182476942",
     "2183313118",
-    "2184076245"
+    "2184076245",
+    "2185317436"
   ],
   "problems": {
     "stone-game-v": {
@@ -920,6 +921,21 @@
         "Dynamic Programming",
         "Bit Manipulation",
         "Matrix"
+      ]
+    },
+    "palindromic-path-queries-in-a-tree": {
+      "id": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "folderName": "3841-palindromic-path-queries-in-a-tree",
+      "topics": [
+        "Array",
+        "String",
+        "Divide and Conquer",
+        "Bit Manipulation",
+        "Tree",
+        "Depth-First Search",
+        "Binary Indexed Tree",
+        "Segment Tree"
       ]
     }
   }
