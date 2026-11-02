@@ -9,6 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [153-find-minimum-in-rotated-sorted-array](https://github.com/avishjhalani/solution-leetcode/tree/main/153-find-minimum-in-rotated-sorted-array) |
 | [209-minimum-size-subarray-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/209-minimum-size-subarray-sum) |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
+| [453-minimum-moves-to-equal-array-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/453-minimum-moves-to-equal-array-elements) |
+| [462-minimum-moves-to-equal-array-elements-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/462-minimum-moves-to-equal-array-elements-ii) |
 | [714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/avishjhalani/solution-leetcode/tree/main/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [835-image-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
@@ -24,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avishjhalani/solution-leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/avishjhalani/solution-leetcode/tree/main/2333-minimum-sum-of-squared-difference) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/avishjhalani/solution-leetcode/tree/main/2462-total-cost-to-hire-k-workers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/avishjhalani/solution-leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avishjhalani/solution-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -40,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/avishjhalani/solution-leetcode/tree/main/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/avishjhalani/solution-leetcode/tree/main/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avishjhalani/solution-leetcode/tree/main/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/avishjhalani/solution-leetcode/tree/main/3841-palindromic-path-queries-in-a-tree) |
@@ -56,6 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [22-generate-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/22-generate-parentheses) |
 | [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -111,9 +120,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
 | [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/avishjhalani/solution-leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/avishjhalani/solution-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
@@ -127,11 +138,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/avishjhalani/solution-leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Database
+|  |
+| ------- |
+| [197-rising-temperature](https://github.com/avishjhalani/solution-leetcode/tree/main/197-rising-temperature) |
+| [584-find-customer-referee](https://github.com/avishjhalani/solution-leetcode/tree/main/584-find-customer-referee) |
+| [595-big-countries](https://github.com/avishjhalani/solution-leetcode/tree/main/595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/avishjhalani/solution-leetcode/tree/main/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/avishjhalani/solution-leetcode/tree/main/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/avishjhalani/solution-leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/avishjhalani/solution-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/avishjhalani/solution-leetcode/tree/main/1661-average-time-of-process-per-machine) |
+| [1683-invalid-tweets](https://github.com/avishjhalani/solution-leetcode/tree/main/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/avishjhalani/solution-leetcode/tree/main/1757-recyclable-and-low-fat-products) |
 ## Depth-First Search
 |  |
 | ------- |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
 | [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/avishjhalani/solution-leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/avishjhalani/solution-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/avishjhalani/solution-leetcode/tree/main/3841-palindromic-path-queries-in-a-tree) |
@@ -160,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/avishjhalani/solution-leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/avishjhalani/solution-leetcode/tree/main/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
@@ -173,6 +200,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avishjhalani/solution-leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
 ## Game Theory
 |  |
 | ------- |
@@ -187,7 +218,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
 | [841-keys-and-rooms](https://github.com/avishjhalani/solution-leetcode/tree/main/841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/avishjhalani/solution-leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
@@ -228,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/avishjhalani/solution-leetcode/tree/main/2333-minimum-sum-of-squared-difference) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/avishjhalani/solution-leetcode/tree/main/2462-total-cost-to-hire-k-workers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
@@ -240,6 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [453-minimum-moves-to-equal-array-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/453-minimum-moves-to-equal-array-elements) |
+| [462-minimum-moves-to-equal-array-elements-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/462-minimum-moves-to-equal-array-elements-ii) |
 | [836-rectangle-overlap](https://github.com/avishjhalani/solution-leetcode/tree/main/836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/avishjhalani/solution-leetcode/tree/main/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/avishjhalani/solution-leetcode/tree/main/1563-stone-game-v) |
@@ -268,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avishjhalani/solution-leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avishjhalani/solution-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/avishjhalani/solution-leetcode/tree/main/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/avishjhalani/solution-leetcode/tree/main/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
@@ -308,10 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/avishjhalani/solution-leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/avishjhalani/solution-leetcode/tree/main/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -324,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [462-minimum-moves-to-equal-array-elements-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/avishjhalani/solution-leetcode/tree/main/2089-find-target-indices-after-sorting-array) |
@@ -355,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [72-edit-distance](https://github.com/avishjhalani/solution-leetcode/tree/main/72-edit-distance) |
 | [115-distinct-subsequences](https://github.com/avishjhalani/solution-leetcode/tree/main/115-distinct-subsequences) |
 | [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
 | [678-valid-parenthesis-string](https://github.com/avishjhalani/solution-leetcode/tree/main/678-valid-parenthesis-string) |
 | [856-score-of-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/856-score-of-parentheses) |
 | [921-minimum-add-to-make-parentheses-valid](https://github.com/avishjhalani/solution-leetcode/tree/main/921-minimum-add-to-make-parentheses-valid) |
@@ -387,11 +428,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/avishjhalani/solution-leetcode/tree/main/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avishjhalani/solution-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/avishjhalani/solution-leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
 | ------- |
+| [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/avishjhalani/solution-leetcode/tree/main/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avishjhalani/solution-leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
