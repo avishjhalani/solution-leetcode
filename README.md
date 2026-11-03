@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/avishjhalani/solution-leetcode/tree/main/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avishjhalani/solution-leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avishjhalani/solution-leetcode/tree/main/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/avishjhalani/solution-leetcode/tree/main/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3876-construct-uniform-parity-array-ii) |
@@ -61,7 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [22-generate-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/22-generate-parentheses) |
 | [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
-## BellmanâFord Algorithm
+## BellmanÃ¢ÂÂFord Algorithm
 |  |
 | ------- |
 | [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
@@ -200,7 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avishjhalani/solution-leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## FloydâWarshall Algorithm
+## FloydÃ¢ÂÂWarshall Algorithm
 |  |
 | ------- |
 | [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avishjhalani/solution-leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/avishjhalani/solution-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avishjhalani/solution-leetcode/tree/main/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/avishjhalani/solution-leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/avishjhalani/solution-leetcode/tree/main/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/avishjhalani/solution-leetcode/tree/main/3875-construct-uniform-parity-array-i) |
