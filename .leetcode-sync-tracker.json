@@ -133,7 +133,8 @@
     "2187550888",
     "2187651117",
     "2187704483",
-    "2187903880"
+    "2187903880",
+    "2188369203"
   ],
   "problems": {
     "stone-game-v": {
@@ -1009,8 +1010,8 @@
         "Union-Find",
         "Graph Theory",
         "Shortest Path",
-        "BellmanâFord Algorithm",
-        "FloydâWarshall Algorithm"
+        "BellmanÃ¢ÂÂFord Algorithm",
+        "FloydÃ¢ÂÂWarshall Algorithm"
       ]
     },
     "reorder-routes-to-make-all-paths-lead-to-the-city-zero": {
@@ -1111,6 +1112,15 @@
       "folderName": "1661-average-time-of-process-per-machine",
       "topics": [
         "Database"
+      ]
+    },
+    "minimum-moves-to-equal-array-elements-iii": {
+      "id": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "folderName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "topics": [
+        "Array",
+        "Math"
       ]
     }
   }
