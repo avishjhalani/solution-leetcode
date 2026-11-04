@@ -62,7 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [22-generate-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/22-generate-parentheses) |
 | [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
-## BellmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [595-big-countries](https://github.com/avishjhalani/solution-leetcode/tree/main/595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/avishjhalani/solution-leetcode/tree/main/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/avishjhalani/solution-leetcode/tree/main/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/avishjhalani/solution-leetcode/tree/main/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/avishjhalani/solution-leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/avishjhalani/solution-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/avishjhalani/solution-leetcode/tree/main/1661-average-time-of-process-per-machine) |
@@ -203,7 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avishjhalani/solution-leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## FloydÃÂÃÂ¢ÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
