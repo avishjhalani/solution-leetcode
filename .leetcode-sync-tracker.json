@@ -135,7 +135,8 @@
     "2187704483",
     "2187903880",
     "2188369203",
-    "2189380364"
+    "2189380364",
+    "2189414198"
   ],
   "problems": {
     "stone-game-v": {
@@ -1011,8 +1012,8 @@
         "Union-Find",
         "Graph Theory",
         "Shortest Path",
-        "BellmanÃÂ¢ÃÂÃÂFord Algorithm",
-        "FloydÃÂ¢ÃÂÃÂWarshall Algorithm"
+        "BellmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂFord Algorithm",
+        "FloydÃÂÃÂ¢ÃÂÃÂÃÂÃÂWarshall Algorithm"
       ]
     },
     "reorder-routes-to-make-all-paths-lead-to-the-city-zero": {
@@ -1128,6 +1129,14 @@
       "id": "577",
       "title": "Employee Bonus",
       "folderName": "577-employee-bonus",
+      "topics": [
+        "Database"
+      ]
+    },
+    "managers-with-at-least-5-direct-reports": {
+      "id": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "folderName": "570-managers-with-at-least-5-direct-reports",
       "topics": [
         "Database"
       ]
