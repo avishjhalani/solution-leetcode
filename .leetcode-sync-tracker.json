@@ -137,7 +137,8 @@
     "2188369203",
     "2189380364",
     "2189414198",
-    "2189414403"
+    "2189414403",
+    "2189444744"
   ],
   "problems": {
     "stone-game-v": {
@@ -1013,8 +1014,8 @@
         "Union-Find",
         "Graph Theory",
         "Shortest Path",
-        "BellmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm",
-        "FloydÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm"
+        "BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm",
+        "FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm"
       ]
     },
     "reorder-routes-to-make-all-paths-lead-to-the-city-zero": {
@@ -1148,6 +1149,19 @@
       "folderName": "1280-students-and-examinations",
       "topics": [
         "Database"
+      ]
+    },
+    "minimum-operations-to-make-elements-within-k-subarrays-equal": {
+      "id": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "folderName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Dynamic Programming",
+        "Sliding Window",
+        "Heap (Priority Queue)"
       ]
     }
   }
