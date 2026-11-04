@@ -62,7 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [22-generate-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/22-generate-parentheses) |
 | [301-remove-invalid-parentheses](https://github.com/avishjhalani/solution-leetcode/tree/main/301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/1096-brace-expansion-ii) |
-## BellmanÃ¢ÂÂFord Algorithm
+## BellmanÃÂ¢ÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [197-rising-temperature](https://github.com/avishjhalani/solution-leetcode/tree/main/197-rising-temperature) |
+| [577-employee-bonus](https://github.com/avishjhalani/solution-leetcode/tree/main/577-employee-bonus) |
 | [584-find-customer-referee](https://github.com/avishjhalani/solution-leetcode/tree/main/584-find-customer-referee) |
 | [595-big-countries](https://github.com/avishjhalani/solution-leetcode/tree/main/595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/avishjhalani/solution-leetcode/tree/main/1068-product-sales-analysis-i) |
@@ -201,7 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avishjhalani/solution-leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## FloydÃ¢ÂÂWarshall Algorithm
+## FloydÃÂ¢ÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [399-evaluate-division](https://github.com/avishjhalani/solution-leetcode/tree/main/399-evaluate-division) |
