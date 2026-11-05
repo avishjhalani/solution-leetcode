@@ -138,7 +138,8 @@
     "2189380364",
     "2189414198",
     "2189414403",
-    "2189444744"
+    "2189444744",
+    "2189882240"
   ],
   "problems": {
     "stone-game-v": {
@@ -1014,8 +1015,8 @@
         "Union-Find",
         "Graph Theory",
         "Shortest Path",
-        "BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm",
-        "FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm"
+        "BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm",
+        "FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm"
       ]
     },
     "reorder-routes-to-make-all-paths-lead-to-the-city-zero": {
@@ -1162,6 +1163,17 @@
         "Dynamic Programming",
         "Sliding Window",
         "Heap (Priority Queue)"
+      ]
+    },
+    "find-the-distance-value-between-two-arrays": {
+      "id": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "folderName": "1385-find-the-distance-value-between-two-arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
       ]
     }
   }
