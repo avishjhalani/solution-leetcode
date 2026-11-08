@@ -1,6 +1,7 @@
 {
   "synced_submission_ids": [
-    "2191314249"
+    "2191314249",
+    "2191863322"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -10,6 +11,19 @@
       "topics": [
         "Array",
         "Heap (Priority Queue)"
+      ]
+    },
+    "count-servers-that-communicate": {
+      "id": "1267",
+      "title": "Count Servers that Communicate",
+      "folderName": "1267-count-servers-that-communicate",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix",
+        "Counting"
       ]
     }
   }
