@@ -1,7 +1,8 @@
 {
   "synced_submission_ids": [
     "2191314249",
-    "2191863322"
+    "2191863322",
+    "2192342684"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -24,6 +25,17 @@
         "Union-Find",
         "Matrix",
         "Counting"
+      ]
+    },
+    "find-servers-that-handled-most-number-of-requests": {
+      "id": "1606",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "folderName": "1606-find-servers-that-handled-most-number-of-requests",
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)",
+        "Simulation",
+        "Ordered Set"
       ]
     }
   }
