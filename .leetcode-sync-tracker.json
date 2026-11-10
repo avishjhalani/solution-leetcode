@@ -2,7 +2,8 @@
   "synced_submission_ids": [
     "2191314249",
     "2191863322",
-    "2192342684"
+    "2192342684",
+    "2193239555"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -36,6 +37,15 @@
         "Heap (Priority Queue)",
         "Simulation",
         "Ordered Set"
+      ]
+    },
+    "climbing-stairs-ii": {
+      "id": "3693",
+      "title": "Climbing Stairs II",
+      "folderName": "3693-climbing-stairs-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
       ]
     }
   }
