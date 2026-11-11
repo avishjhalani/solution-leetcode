@@ -4,7 +4,8 @@
     "2191863322",
     "2192342684",
     "2193239555",
-    "2193240128"
+    "2193240128",
+    "2193891411"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -47,6 +48,15 @@
       "topics": [
         "Array",
         "Dynamic Programming"
+      ]
+    },
+    "minimum-cost-to-acquire-required-items": {
+      "id": "3789",
+      "title": "Minimum Cost to Acquire Required Items",
+      "folderName": "3789-minimum-cost-to-acquire-required-items",
+      "topics": [
+        "Math",
+        "Greedy"
       ]
     }
   }
