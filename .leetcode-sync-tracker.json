@@ -7,7 +7,8 @@
     "2193240128",
     "2193891411",
     "2194422999",
-    "2194428435"
+    "2194428435",
+    "2194431959"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -73,6 +74,14 @@
       "id": "1075",
       "title": "Project Employees I",
       "folderName": "1075-project-employees-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    "percentage-of-users-attended-a-contest": {
+      "id": "1633",
+      "title": "Percentage of Users Attended a Contest",
+      "folderName": "1633-percentage-of-users-attended-a-contest",
       "topics": [
         "Database"
       ]
