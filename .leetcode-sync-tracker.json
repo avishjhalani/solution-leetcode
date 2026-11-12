@@ -6,7 +6,8 @@
     "2193239555",
     "2193240128",
     "2193891411",
-    "2194422999"
+    "2194422999",
+    "2194428435"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -66,6 +67,14 @@
       "folderName": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
       "topics": [
         "Array"
+      ]
+    },
+    "project-employees-i": {
+      "id": "1075",
+      "title": "Project Employees I",
+      "folderName": "1075-project-employees-i",
+      "topics": [
+        "Database"
       ]
     }
   }
