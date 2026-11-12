@@ -5,7 +5,8 @@
     "2192342684",
     "2193239555",
     "2193240128",
-    "2193891411"
+    "2193891411",
+    "2194422999"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -57,6 +58,14 @@
       "topics": [
         "Math",
         "Greedy"
+      ]
+    },
+    "longest-strictly-increasing-or-strictly-decreasing-subarray": {
+      "id": "3105",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "folderName": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "topics": [
+        "Array"
       ]
     }
   }
