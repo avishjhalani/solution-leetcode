@@ -20,6 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/avishjhalani/solution-leetcode/tree/main/1267-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/avishjhalani/solution-leetcode/tree/main/1075-project-employees-i) |
 ## Depth-First Search
 |  |
 | ------- |
