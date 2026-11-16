@@ -11,7 +11,8 @@
     "2194431959",
     "2195115728",
     "2195794553",
-    "2197146262"
+    "2197146262",
+    "2197146972"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -106,6 +107,17 @@
       "topics": [
         "String",
         "Simulation"
+      ]
+    },
+    "number-of-sub-arrays-with-odd-sum": {
+      "id": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "folderName": "1524-number-of-sub-arrays-with-odd-sum",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Prefix Sum"
       ]
     }
   }
