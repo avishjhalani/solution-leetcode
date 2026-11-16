@@ -63,10 +63,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/avishjhalani/solution-leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3364-minimum-positive-sum-subarray) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2243-calculate-digit-sum-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
