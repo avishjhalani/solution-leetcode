@@ -10,7 +10,8 @@
     "2194428435",
     "2194431959",
     "2195115728",
-    "2195794553"
+    "2195794553",
+    "2197146262"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -96,6 +97,15 @@
         "Array",
         "Sliding Window",
         "Prefix Sum"
+      ]
+    },
+    "calculate-digit-sum-of-a-string": {
+      "id": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "folderName": "2243-calculate-digit-sum-of-a-string",
+      "topics": [
+        "String",
+        "Simulation"
       ]
     }
   }
