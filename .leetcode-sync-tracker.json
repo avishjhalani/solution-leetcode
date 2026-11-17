@@ -12,7 +12,8 @@
     "2195115728",
     "2195794553",
     "2197146262",
-    "2197146972"
+    "2197146972",
+    "2198181244"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -118,6 +119,16 @@
         "Math",
         "Dynamic Programming",
         "Prefix Sum"
+      ]
+    },
+    "minimum-changes-to-make-k-semi-palindromes": {
+      "id": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "folderName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
       ]
     }
   }
