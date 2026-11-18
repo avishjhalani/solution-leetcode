@@ -15,7 +15,8 @@
     "2197146972",
     "2198181244",
     "2198181398",
-    "2198181518"
+    "2198181518",
+    "2198477749"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -131,6 +132,14 @@
         "Two Pointers",
         "String",
         "Dynamic Programming"
+      ]
+    },
+    "minimum-number-of-changes-to-make-binary-string-beautiful": {
+      "id": "2914",
+      "title": "Minimum Number of Changes to Make Binary String Beautiful",
+      "folderName": "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
+      "topics": [
+        "String"
       ]
     }
   }
