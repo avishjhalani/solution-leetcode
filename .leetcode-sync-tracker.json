@@ -16,7 +16,8 @@
     "2198181244",
     "2198181398",
     "2198181518",
-    "2198477749"
+    "2198477749",
+    "2198508896"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -140,6 +141,19 @@
       "folderName": "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
       "topics": [
         "String"
+      ]
+    },
+    "majority-element": {
+      "id": "169",
+      "title": "Majority Element",
+      "folderName": "169-majority-element",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
       ]
     }
   }
