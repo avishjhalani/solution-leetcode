@@ -18,7 +18,8 @@
     "2198181518",
     "2198477749",
     "2198508896",
-    "2198509230"
+    "2198509230",
+    "2199486542"
   ],
   "problems": {
     "process-tasks-using-servers": {
@@ -154,7 +155,17 @@
         "Divide and Conquer",
         "Sorting",
         "Counting",
-        "Boyer–Moore Majority Vote Algorithm"
+        "BoyerâMoore Majority Vote Algorithm"
+      ]
+    },
+    "minimum-score-by-changing-two-elements": {
+      "id": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "folderName": "2567-minimum-score-by-changing-two-elements",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
       ]
     }
   }
