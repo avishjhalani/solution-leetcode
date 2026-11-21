@@ -15,9 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/avishjhalani/solution-leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3693-climbing-stairs-ii) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/avishjhalani/solution-leetcode/tree/main/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +106,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/avishjhalani/solution-leetcode/tree/main/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avishjhalani/solution-leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/avishjhalani/solution-leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
 |  |
 | ------- |
