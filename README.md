@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/avishjhalani/solution-leetcode/tree/main/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/avishjhalani/solution-leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/avishjhalani/solution-leetcode/tree/main/1882-process-tasks-using-servers) |
@@ -18,7 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3693-climbing-stairs-ii) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
@@ -31,6 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/avishjhalani/solution-leetcode/tree/main/1267-count-servers-that-communicate) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/1352-product-of-the-last-k-numbers) |
 ## Database
 |  |
 | ------- |
@@ -41,6 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/avishjhalani/solution-leetcode/tree/main/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/1352-product-of-the-last-k-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/avishjhalani/solution-leetcode/tree/main/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
@@ -83,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3364-minimum-positive-sum-subarray) |
 ## Simulation
