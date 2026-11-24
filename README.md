@@ -18,8 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/avishjhalani/solution-leetcode/tree/main/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3693-climbing-stairs-ii) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
@@ -61,6 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avishjhalani/solution-leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/avishjhalani/solution-leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3693-climbing-stairs-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/avishjhalani/solution-leetcode/tree/main/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -81,11 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/avishjhalani/solution-leetcode/tree/main/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/avishjhalani/solution-leetcode/tree/main/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/avishjhalani/solution-leetcode/tree/main/1267-count-servers-that-communicate) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/avishjhalani/solution-leetcode/tree/main/3411-maximum-subarray-with-equal-products) |
 ## Ordered Set
 |  |
 | ------- |
@@ -105,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/avishjhalani/solution-leetcode/tree/main/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
