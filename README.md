@@ -20,7 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/avishjhalani/solution-leetcode/tree/main/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/avishjhalani/solution-leetcode/tree/main/3693-climbing-stairs-ii) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+| [3934-smallest-unique-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3934-smallest-unique-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3934-smallest-unique-subarray) |
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
@@ -71,11 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/avishjhalani/solution-leetcode/tree/main/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/avishjhalani/solution-leetcode/tree/main/3789-minimum-cost-to-acquire-required-items) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [169-majority-element](https://github.com/avishjhalani/solution-leetcode/tree/main/169-majority-element) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,6 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/avishjhalani/solution-leetcode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avishjhalani/solution-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3364-minimum-positive-sum-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +144,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avishjhalani/solution-leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/avishjhalani/solution-leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/avishjhalani/solution-leetcode/tree/main/3331-find-subtree-sizes-after-changes) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/avishjhalani/solution-leetcode/tree/main/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
